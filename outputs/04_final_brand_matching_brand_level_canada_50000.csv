@@ -1,0 +1,2240 @@
+brand_name,number_of_locations,categories
+CAFE,274,food_and_drink > casual_eatery > cafe
+Canada Post,220,services_and_business > shipping_or_delivery_service > post_office
+RBC,134,services_and_business > financial_service > bank_or_credit_union
+TD,127,services_and_business > financial_service > bank_or_credit_union
+Starbucks,106,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+RE/MAX,100,services_and_business > real_estate_service > real_estate_agent
+Subway,99,food_and_drink > casual_eatery > sandwich_shop
+Impark,93,travel_and_transportation > parking
+BMO,81,services_and_business > financial_service > atm
+Barbershop,80,lifestyle_services > personal_or_beauty_service > barber
+CIBC,78,services_and_business > financial_service > bank_or_credit_union > bank
+Scotiabank,78,services_and_business > financial_service > bank_or_credit_union > bank
+Royal LePage,70,services_and_business > real_estate_service > real_estate_agent
+Western Union,65,services_and_business > financial_service
+U-Haul,64,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > truck_rental_service
+LifeLabs,63,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > diagnostic_imaging
+Tim Hortons Cafe and Bake Shop,63,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+7-Eleven,59,shopping > convenience_store
+Petro-Canada,59,travel_and_transportation > fueling_station > gas_station
+Indigo,51,travel_and_transportation > parking
+McDonald's,50,food_and_drink > casual_eatery > fast_food_restaurant
+aProperties,50,services_and_business > real_estate_service
+H&R Block,47,services_and_business > financial_service > trusts
+Pharmasave,46,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Shell,46,travel_and_transportation > fueling_station > gas_station
+BC Liquor Store,45,shopping > food_and_beverage_store > liquor_store
+FLO,42,travel_and_transportation > fueling_station > ev_charging_station
+Shoppers Drug Mart,41,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+McCafé,39,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+A&W Canada,37,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Co-op,36,travel_and_transportation > fueling_station > gas_station
+Esso,36,travel_and_transportation > fueling_station > gas_station
+Localcoin,35,services_and_business > financial_service > atm
+Rogers,35,shopping > specialty_store > electronics_store > mobile_phone_store
+A&W,32,food_and_drink > casual_eatery > fast_food_restaurant
+Save-On-Foods,31,shopping > food_and_beverage_store > grocery_store
+Chiropratica,30,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Freshslice Pizza,30,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+I.D.A.,30,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+UPS,30,services_and_business > shipping_or_delivery_service > courier_and_delivery_service
+Connect Hearing,29,shopping > specialty_store > medical_supply_store
+W consulting,29,services_and_business > professional_service
+Bistrot,28,food_and_drink > restaurant
+Bosley's by Pet Valu,28,shopping > specialty_store > animal_and_pet_store > pet_store
+NexGen Hearing,28,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+On the Run,28,shopping > convenience_store
+Westland Insurance,28,services_and_business > financial_service > insurance_agency
+Dairy Queen,27,food_and_drink > casual_eatery > fast_food_restaurant
+Diamond Parking,27,travel_and_transportation > parking
+Home Hardware,27,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Tim Hortons,27,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+XMarket,27,shopping > food_and_beverage_store > grocery_store
+BMO Financial Group,26,services_and_business > financial_service > bank_or_credit_union
+Pho,26,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Pizza Hut,26,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Thrifty Foods,26,shopping > food_and_beverage_store > grocery_store
+Domino's Pizza,24,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Laundromax,23,services_and_business > laundry_service > laundromat
+Oakwyn Realty,23,services_and_business > real_estate_service > real_estate_agent
+Panago Pizza,23,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Walmart,23,shopping > department_store
+Anytime Fitness,21,sports_and_recreation > sport_or_fitness_facility > gym
+COBS Bread,21,food_and_drink > casual_eatery > bakery
+Money Mart,21,services_and_business > financial_service > bank_or_credit_union
+Garage,20,services_and_business > home_service > garage_door_service
+London Drugs,20,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+RBC Dominion Securities Inc.,20,services_and_business > financial_service > bank_or_credit_union
+Serious Coffee,20,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Coast Capital,19,services_and_business > financial_service > bank_or_credit_union > credit_union
+Community Credit Union,19,services_and_business > financial_service > bank_or_credit_union > credit_union
+Sweet,19,food_and_drink > casual_eatery > bakery
+Canadian Tire,18,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Mark's,18,shopping > fashion_and_apparel_store > clothing_store
+Wendy's,18,food_and_drink > casual_eatery > fast_food_restaurant
+Alamo,17,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+KFC,17,food_and_drink > casual_eatery > fast_food_restaurant
+Barburrito,16,food_and_drink > casual_eatery > fast_food_restaurant
+Esquimalt,16,cultural_and_historic > historic_site
+HSBC,16,services_and_business > financial_service > bank_or_credit_union
+Sherwin-Williams,16,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+TELUS,16,shopping > specialty_store > electronics_store
+The UPS Store,16,services_and_business > shipping_or_delivery_service > shipping_center
+White Spot,16,food_and_drink > restaurant
+Amazon Locker,15,services_and_business > storage_facility > package_locker
+BC Ferries,15,travel_and_transportation
+Bell Canada,15,services_and_business > business > telecommunications_company
+Blenz Coffee,15,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Boston Pizza,15,food_and_drink > alcoholic_beverage_venue > bar > sports_bar
+Budget Car Rental,15,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Circle K,15,shopping > convenience_store
+Hertz,15,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Kal Tire,15,travel_and_transportation > vehicle_service > automotive_service > tire_shop
+Liberty Tax,15,services_and_business > financial_service > trusts
+Peninsula Co-op,15,travel_and_transportation > fueling_station > gas_station
+PharmaChoice,15,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Vancity,15,services_and_business > financial_service > bank_or_credit_union > credit_union
+Advanced Parking,14,travel_and_transportation > parking
+Bitcoin Depot,14,services_and_business > financial_service > atm
+Booster Juice,14,food_and_drink > non_alcoholic_beverage_venue > smoothie_juice_bar
+FYidoctors,14,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Island Haircutting Co.,14,lifestyle_services > personal_or_beauty_service > hair_salon
+Kumon,14,education > educational_service > tutoring_service
+Safeway,14,shopping > food_and_beverage_store > grocery_store
+Speedy Glass,14,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service
+WW,14,lifestyle_services > wellness_service > weight_loss_center
+Cloverdale Paint,13,shopping > specialty_store > hardware_home_and_garden_store > paint_store
+Co Op Gas Bar,13,travel_and_transportation > fueling_station > gas_station
+First Choice Haircutters,13,lifestyle_services > personal_or_beauty_service > hair_salon
+Hyundai,13,shopping > vehicle_dealer > auto_dealer
+Macdonald Realty,13,services_and_business > real_estate_service > real_estate_agent
+My Property Group,13,services_and_business > real_estate_service > real_estate_agent
+Purolator,13,services_and_business > shipping_or_delivery_service > courier_and_delivery_service
+easyfinancial Services,13,services_and_business > financial_service > check_cashing_payday_loans
+Auto Spa,12,travel_and_transportation > vehicle_service > automotive_service > auto_detailing
+Cascadia Liquor,12,shopping > food_and_beverage_store > liquor_store
+Chrysler,12,shopping > vehicle_dealer > auto_dealer
+Enterprise,12,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+FRESH فريش,12,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+M&M Food Market,12,shopping > food_and_beverage_store > grocery_store
+MobileQ,12,shopping > specialty_store > electronics_store > mobile_phone_store
+National Bank,12,services_and_business > financial_service > bank_or_credit_union
+National Car Rental,12,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+OK Tire,12,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+Salvation Army Thrift Store Perth,12,shopping > second_hand_store
+Sleep Country Canada,12,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+The Church of Jesus Christ of Latter-day Saints,12,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+freshii,12,food_and_drink > casual_eatery > fast_food_restaurant
+Best Western Hotels & Resorts,11,lodging > hotel
+Edo Japan,11,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+"Expedia Cruises - Air, Land & Sea Vacations",11,travel_and_transportation > travel_service
+Freedom Mobile,11,services_and_business > business > telecommunications_company
+GNC,11,shopping > food_and_beverage_store > vitamin_and_supplement_store
+IRIS.ca,11,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Quality Foods,11,shopping > food_and_beverage_store > grocery_store
+Staples,11,shopping > specialty_store > office_supply_store
+TASTE,11,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+The Brick,11,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+ifurniture,11,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Ardene,10,shopping > fashion_and_apparel_store > fashion_accessories_store
+Fido,10,shopping > specialty_store > electronics_store > mobile_phone_store
+Great Canadian Oil Change,10,travel_and_transportation > vehicle_service > automotive_service
+Guardian,10,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Hope Seventh-day Adventist Church,10,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Little Caesars,10,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Lordco Parts Ltd.,10,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Northern Reflections,10,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Quesada Burritos & Tacos,10,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+RBC Bank,10,services_and_business > financial_service > bank_or_credit_union
+Winners,10,shopping > department_store
+Benjamin Moore,9,shopping > specialty_store > hardware_home_and_garden_store > paint_store
+Best Buy,9,shopping > specialty_store > electronics_store
+Burger King,9,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Curves,9,sports_and_recreation > sport_or_fitness_facility > gym
+Dollar Tree,9,shopping > discount_store
+Fountain Tire,9,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+GameStop,9,shopping > specialty_store > books_music_and_video_store > video_game_store
+Great Clips,9,lifestyle_services > personal_or_beauty_service > hair_salon
+HUB International,9,services_and_business > financial_service > insurance_agency
+Husky,9,travel_and_transportation > fueling_station > gas_station
+IKitchen,9,services_and_business > home_service > countertop_installation
+La Vie en Rose,9,shopping > fashion_and_apparel_store > clothing_store > lingerie_store
+Midas,9,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Mr. Lube,9,travel_and_transportation > vehicle_service > automotive_service > oil_change_station
+Noodlebox Canada,9,food_and_drink > restaurant > international_fusion_restaurant > asian_fusion_restaurant
+Oxygen Yoga & Fitness,9,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Pandora,9,shopping > fashion_and_apparel_store > jewelry_store
+Papa John's Pizza,9,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Payless,9,shopping > fashion_and_apparel_store > shoe_store
+Pizza Pizza,9,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Pure Integrative Pharmacy,9,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Red Barn Market,9,shopping > food_and_beverage_store > grocery_store
+Slegg Building Materials,9,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Specsavers,9,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Sunglass Hut,9,shopping > fashion_and_apparel_store > eyewear_store > sunglasses_store
+Suzanne's,9,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Sylvan Learning,9,education > educational_service > tutoring_service
+TOYOTA,9,shopping > vehicle_dealer > auto_dealer
+WorkBC,9,services_and_business > professional_service > employment_agency
+Asian,8,food_and_drink > restaurant > asian_restaurant
+BOSS,8,shopping > fashion_and_apparel_store > clothing_store
+Bean Around the World Coffees,8,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Bentley,8,shopping > fashion_and_apparel_store > luggage_store
+Bento Sushi,8,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+CSN Collision,8,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Canada Post Corporation,8,services_and_business > shipping_or_delivery_service > post_office
+Chatters Hair Salon,8,lifestyle_services > personal_or_beauty_service > hair_salon
+Country Grocer,8,shopping > food_and_beverage_store > grocery_store
+Craftsman Collision,8,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Fix Auto,8,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Foxy Box Laser & Wax Bar,8,lifestyle_services > personal_or_beauty_service > hair_removal > waxing
+Jazzercise,8,sports_and_recreation > sport_or_fitness_facility > gym
+LOCAL Pizza,8,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Liquor Plus,8,shopping > food_and_beverage_store > beer_wine_spirits_store
+Monk Office,8,shopping > specialty_store > office_supply_store
+Montessori Academy,8,education > place_of_learning > school > private_school
+NAPA AUTO PARTS,8,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Pet Valu,8,shopping > specialty_store > animal_and_pet_store > pet_store
+Quiznos,8,food_and_drink > casual_eatery > sandwich_shop
+TacoTime,8,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Timberland,8,shopping > fashion_and_apparel_store > shoe_store
+Windsor Plywood Edmonton,8,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Arbutus RV & Marine Sales Ltd.,7,shopping > vehicle_dealer > recreational_vehicle_dealer
+Aritzia,7,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+BDC,7,services_and_business > financial_service > bank_or_credit_union
+Berwick Retirement Communities,7,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Bosley's,7,shopping > specialty_store > animal_and_pet_store > pet_store
+Boyd Autobody & Glass,7,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service
+Central Drugs,7,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Chevrolet,7,shopping > vehicle_dealer > auto_dealer
+Collective,7,shopping > specialty_store > arts_crafts_and_hobby_store
+Cosmetica,7,lifestyle_services > personal_or_beauty_service > body_modification > tattoo_and_piercing
+Denny's,7,food_and_drink > casual_eatery > diner
+Dollar Store,7,shopping > discount_store
+Edward Jones - Financial Advisor: Jared Slagle,7,services_and_business > financial_service
+Enex Fuels,7,services_and_business > b2b_service > b2b_energy_and_utility_service > b2b_oil_and_gas > b2b_oil_and_gas_equipment
+Fatburger,7,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Fields,7,shopping > discount_store
+Galaxy Motors,7,shopping > vehicle_dealer > auto_dealer
+Great Canadian Dollar Store,7,shopping > discount_store
+Heart Pharmacy,7,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Jeep,7,shopping > vehicle_dealer > auto_dealer
+Joe Fresh,7,shopping > fashion_and_apparel_store > clothing_store
+Marlin Travel - Amber Travis and Jayden Richardson,7,travel_and_transportation > travel_service
+Michael Hill,7,shopping > fashion_and_apparel_store > jewelry_store
+Nespresso,7,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+New York Fries,7,food_and_drink > casual_eatery > fast_food_restaurant
+Orangetheory Fitness,7,sports_and_recreation > sport_or_fitness_facility > gym
+Peoples Jewellers,7,shopping > fashion_and_apparel_store > jewelry_store
+PetSmart,7,shopping > specialty_store > animal_and_pet_store > pet_store
+Realstar Corp.,7,cultural_and_historic > historic_site
+Roots,7,shopping > fashion_and_apparel_store > clothing_store
+Shar-Kare,7,shopping > specialty_store > animal_and_pet_store > pet_store
+Sport Chek,7,shopping > specialty_store > sporting_goods_store
+The Body Shop,7,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+The Liquor Co. 1977,7,shopping > food_and_beverage_store > liquor_store
+Tireland,7,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+United Floors,7,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Western Financial Group,7,services_and_business > financial_service > insurance_agency
+Young Drivers of Canada,7,education > place_of_learning > specialty_school > driving_school
+lululemon,7,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Ali Baba Pizza,6,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Amica Senior Lifestyles,6,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Blackapple Cellular,6,services_and_business > technical_service > it_service_and_computer_repair > mobile_phone_repair
+Bluenotes,6,shopping > fashion_and_apparel_store > clothing_store
+Bottle Depot,6,services_and_business > home_service > recycling_center
+CEFA Early Years School,6,education > place_of_learning > school > preschool
+Claire's,6,shopping > fashion_and_apparel_store > fashion_accessories_store
+Coffee Shop,6,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Custom Cabinets,6,services_and_business > home_service > countertop_installation
+Fairway Market at Quadra Village,6,shopping > food_and_beverage_store > grocery_store
+First Credit Union,6,services_and_business > financial_service > bank_or_credit_union > credit_union
+Hallmark,6,shopping > specialty_store > flowers_and_gifts_store > gift_shop
+HearingLife,6,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Holiday Inn,6,lodging > hotel
+Home Instead,6,health_care > medical_service > home_health_care
+Honda,6,shopping > vehicle_dealer > auto_dealer
+IGA,6,shopping > food_and_beverage_store > grocery_store
+Island Savings Centre,6,services_and_business > financial_service > bank_or_credit_union > credit_union
+Jiffy Lube,6,travel_and_transportation > vehicle_service > automotive_service > oil_change_station
+Jolly Giant Childcare,6,services_and_business > family_service > child_care_and_day_care > day_care_preschool
+KIA Motors,6,shopping > vehicle_dealer > auto_dealer
+Long & McQuade Musical Instruments,6,shopping > specialty_store > musical_instrument_and_pro_audio_store > musical_instrument_store
+Mid Island Co-op,6,travel_and_transportation > fueling_station > gas_station
+Mid Island Liquor,6,shopping > food_and_beverage_store > liquor_store
+Mobile Klinik,6,services_and_business > technical_service > it_service_and_computer_repair > mobile_phone_repair
+Next,6,shopping > specialty_store > flowers_and_gifts_store
+Nissan,6,shopping > vehicle_dealer > auto_dealer
+No Frills,6,shopping > food_and_beverage_store > grocery_store
+Oxford Learning,6,education > educational_service > tutoring_service
+Popeyes Louisiana Kitchen,6,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Prime Storage,6,services_and_business > storage_facility > self_storage_facility
+Reitmans,6,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Rogers' Chocolates,6,food_and_drink > casual_eatery > candy_store > chocolatier
+Running Room,6,shopping > specialty_store > sporting_goods_store
+SOFTMOC SHOES,6,shopping > fashion_and_apparel_store > shoe_store
+"Sooke, British Columbia",6,community_and_government > public_safety_service > fire_station
+St Ann's Church,6,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+Subaru,6,shopping > vehicle_dealer > auto_dealer
+Sunbelt Rentals,6,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Sushi House 寿司屋 すしや,6,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+The Home Depot,6,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Tirecraft,6,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+Walk in Comfort,6,shopping > fashion_and_apparel_store > shoe_store
+Warehouse One,6,shopping > fashion_and_apparel_store > clothing_store
+West Coast Medical Imaging,6,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > doctors_office
+WildPlay Element Parks,6,arts_and_entertainment > amusement_attraction > amusement_park
+tbooth wireless,6,shopping > specialty_store > electronics_store > mobile_phone_store
+Alair Homes,5,services_and_business > real_estate_service > builder > home_developer
+Aveda,5,lifestyle_services > personal_or_beauty_service > hair_salon
+Bayshore HealthCare Ltd.,5,health_care > medical_service > home_health_care
+Bayshore Healthcare,5,health_care > emergency_or_urgent_care_facility > walk_in_clinic
+Big O Tires,5,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+Browns Socialhouse Westgate,5,food_and_drink > restaurant > bar_and_grill_restaurant
+Buckerfield's,5,shopping > specialty_store > hardware_home_and_garden_store
+Budget Brake & Muffler Auto Centres,5,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Cactus Club Cafe,5,food_and_drink > restaurant
+Camosun College,5,education > place_of_learning > college_university
+Carter's,5,shopping > fashion_and_apparel_store > clothing_store > childrens_clothing_store
+Cinémas Cineplex,5,arts_and_entertainment > movie_theater
+City Electric Supply,5,shopping > specialty_store > hardware_home_and_garden_store > electrical_supply_store
+Club Pilates,5,sports_and_recreation > sport_or_fitness_facility > fitness_studio > pilates_studio
+Coach,5,shopping > fashion_and_apparel_store > fashion_accessories_store
+Coles,5,shopping > specialty_store > books_music_and_video_store > bookstore
+Community Living BC,5,community_and_government > social_or_community_service
+Costco,5,shopping > discount_store
+Days Inn,5,lodging > hotel
+Diamond EyeCare,5,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Driftwood Restaurant Campbell River,5,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Dynamite,5,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+E.B. Horsman & Son,5,shopping > warehouse_club_store
+Faley Restaurant,5,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+Fitness World Canada,5,sports_and_recreation > sport_or_fitness_facility > gym
+Ford,5,shopping > vehicle_dealer > auto_dealer
+Frontrunners,5,shopping > fashion_and_apparel_store > shoe_store
+GARDENWORKS,5,shopping > specialty_store > hardware_home_and_garden_store > nursery_and_gardening_store
+Gone Fishin',5,shopping > specialty_store > sporting_goods_store > hunting_and_fishing_store
+Good Earth Coffeehouse,5,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+"Indigo, Chapters and Coles",5,shopping > specialty_store > books_music_and_video_store > bookstore
+Island Return It,5,services_and_business > home_service > recycling_center
+Jack's,5,food_and_drink > restaurant
+L'OCCITANE en Provence,5,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+La-Z-Boy,5,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+LensCrafters,5,shopping > fashion_and_apparel_store > eyewear_store > sunglasses_store
+Lifemark,5,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Lordco,5,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Lube +,5,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+MNP,5,services_and_business > financial_service
+Mary Brown's,5,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Mazda,5,shopping > vehicle_dealer > auto_dealer
+Michaels Stores,5,shopping > specialty_store > arts_crafts_and_hobby_store
+Mountain Warehouse,5,shopping > specialty_store > sporting_goods_store > outdoor_store
+Murchie's Tea & Coffee,5,food_and_drink > non_alcoholic_beverage_venue > tea_room
+Nando's,5,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+PE Appliance Repair,5,services_and_business > home_service > appliance_repair_service
+President's Choice Financial,5,services_and_business > financial_service > bank_or_credit_union
+Real Canadian Superstore,5,shopping > food_and_beverage_store > grocery_store
+Rhino Coffee House,5,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Right at Home,5,health_care > medical_service > home_health_care
+Shell Recharge,5,travel_and_transportation > fueling_station > ev_charging_station
+Shoreline Orthodontics,5,health_care > outpatient_care_facility > dental_clinic > orthodontics
+Source for Sports,5,shopping > specialty_store > sporting_goods_store
+The Shoe Co,5,shopping > fashion_and_apparel_store > shoe_store
+WIRELESSWAVE,5,shopping > specialty_store > electronics_store > mobile_phone_store
+XS Tattoo & Piercing,5,lifestyle_services > personal_or_beauty_service > body_modification > tattoo_and_piercing
+10 Acres Restaurants & Farm,4,food_and_drink > restaurant
+Alert First-Aid,4,education > place_of_learning > specialty_school > first_aid_class
+Ann-Louise Jewellers,4,shopping > fashion_and_apparel_store > jewelry_store
+Apple,4,shopping > specialty_store > electronics_store
+Atmosphere,4,shopping > fashion_and_apparel_store > clothing_store
+Avis Car Rental,4,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Baan Thai Wok and Bar - Broadmead,4,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Banana Republic,4,shopping > fashion_and_apparel_store > clothing_store
+Best Buy Express,4,shopping > specialty_store > electronics_store
+"Big Feet at 8240 Lansdowne Rd, Richmond, BC",4,lifestyle_services > wellness_service > massage_therapy
+Big Wheel Burger,4,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Bin 4 Burger Lounge Westshore,4,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Bubble Waffle Cafe - Ironwood Plaza,4,food_and_drink > casual_eatery > cafe
+Budget Blinds,4,services_and_business > home_service > shades_and_blinds
+Bumper to Bumper,4,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+CBI - Scarth Street - Synergy Physio,4,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Caffè Artigiano,4,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Centre Dental,4,health_care > outpatient_care_facility > dental_clinic
+Chatime,4,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Childcare Network,4,services_and_business > home_service
+Classic LifeCare,4,health_care > medical_service > home_health_care
+CoinFlip,4,services_and_business > financial_service > atm
+CrossFit,4,lifestyle_services > wellness_service > health_and_wellness_club
+Crowe,4,services_and_business > financial_service > accountant
+Dbl Disposal Services,4,community_and_government > public_utility > garbage_collection_service
+Discovery Coffee,4,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Doane Grant Thornton LLP,4,services_and_business > financial_service > accountant
+Dodge,4,shopping > vehicle_dealer > auto_dealer
+Earls Restaurants,4,food_and_drink > restaurant
+End Of The Roll Flooring Centres,4,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Exxon & Mobil Stations,4,travel_and_transportation > fueling_station > gas_station
+EyeCare,4,shopping > fashion_and_apparel_store > eyewear_store
+F45 Training,4,sports_and_recreation > sport_or_fitness_facility > gym
+Fabutan,4,lifestyle_services > personal_or_beauty_service > tanning_salon
+Fairmont,4,lodging > hotel
+Fairstone,4,services_and_business > financial_service
+Fas Gas Plus,4,travel_and_transportation > fueling_station > gas_station
+Firehouse Subs,4,food_and_drink > casual_eatery > sandwich_shop
+Flaman Fitness,4,shopping > specialty_store > sporting_goods_store
+Floyd's Diner,4,food_and_drink > casual_eatery > diner
+Ford Canada,4,shopping > vehicle_dealer > auto_dealer
+Fraternal Order of Eagles #2101,4,community_and_government > social_or_community_service
+Gap,4,shopping > fashion_and_apparel_store > clothing_store
+Great Canadian Dollar Store Shippagan,4,shopping > discount_store
+Hot House Pizza,4,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+House of Knives,4,shopping > specialty_store > hardware_home_and_garden_store > kitchen_and_bath_store > kitchen_supply_store
+Island Foot Clinics,4,health_care > outpatient_care_facility > specialized_health_care > musculoskeletal_medicine > podiatry
+JAPADOG,4,food_and_drink > restaurant > meat_restaurant > hot_dog_restaurant
+Johnson,4,services_and_business > financial_service > bank_or_credit_union
+Jugo Juice,4,food_and_drink > non_alcoholic_beverage_venue > smoothie_juice_bar
+K2 Stone,4,services_and_business > b2b_service > supplier_or_distributor > granite_supplier
+KINTON RAMEN,4,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Kin's Farm Market,4,shopping > market > farmers_market
+Levi's,4,shopping > fashion_and_apparel_store > clothing_store
+Lids,4,shopping > fashion_and_apparel_store > fashion_accessories_store > hat_store
+Lifestyle Markets,4,shopping > food_and_beverage_store > health_food_store
+Little Thai,4,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Lush,4,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+MAC Cosmetics,4,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+MINI,4,shopping > specialty_store > flowers_and_gifts_store
+Manchu Wok,4,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Mango,4,food_and_drink > casual_eatery > cafe
+Mathnasium Việt Nam,4,education > educational_service > tutoring_service
+MetalCraft,4,services_and_business > b2b_service > manufacturer > metal_fabricator
+Mini Mall Storage,4,services_and_business > storage_facility > self_storage_facility
+Modern Beauty Supplies,4,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store > hair_supply_store
+Moores Clothing,4,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Motion,4,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+ND Graphics,4,services_and_business > design_service > sign_making
+Neptune Group,4,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Noble,4,services_and_business > home_service > ceiling_and_roofing_repair_and_service > roofing
+Nurse Next Door,4,health_care > medical_service > home_health_care
+Old Navy,4,shopping > fashion_and_apparel_store > clothing_store
+On Side Restoration,4,services_and_business > home_service > damage_restoration > fire_and_water_damage_restoration
+Original Joe's,4,food_and_drink > restaurant > bar_and_grill_restaurant
+Padgett,4,services_and_business > financial_service > accountant
+Pharmaprix,4,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Plaza Premium Lounge,4,food_and_drink > alcoholic_beverage_venue > lounge > airport_lounge
+Porsche,4,shopping > vehicle_dealer > auto_dealer
+RONA EN,4,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Ricky's Family Restaurants,4,food_and_drink > restaurant
+Rocky Mountain Chocolate NL,4,food_and_drink > casual_eatery > candy_store > chocolatier
+Sears,4,shopping > department_store
+Snore MD,4,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Splashes Bath and Kitchen,4,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Studio Pilates,4,sports_and_recreation > sport_or_fitness_facility > fitness_studio > pilates_studio
+Supplement King Canada,4,shopping > food_and_beverage_store > vitamin_and_supplement_store
+Sussex Insurance,4,services_and_business > financial_service > insurance_agency
+Tapestry Music,4,shopping > specialty_store > musical_instrument_and_pro_audio_store > musical_instrument_store
+The Children's Place,4,shopping > fashion_and_apparel_store > clothing_store > childrens_clothing_store
+The Foam Shop,4,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+ToGo Sushi,4,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Triple-O's Aape By A Bathing Ape,4,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Turnabout Luxury Resale,4,shopping > second_hand_store
+"Ucluelet, British Columbia",4,community_and_government
+United Rentals,4,services_and_business > real_estate > real_estate_service > rental_service
+Urban Barn,4,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+VCA Animal Hospitals,4,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Value Village,4,shopping > second_hand_store
+Victory Martial Arts,4,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Villages Pizza Calgary,4,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Virgin Plus,4,shopping > specialty_store > electronics_store > mobile_phone_store
+West Marine,4,shopping > specialty_store > vehicle_parts_store > boat_parts_store
+Westjet,4,travel_and_transportation > air_transport_facility_or_service > airport
+Woodcraft,4,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Yummy Slice Pizza,4,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Zennkai Salon,4,lifestyle_services > personal_or_beauty_service > beauty_salon
+&pizza,3,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+1 for 1 Pizza,3,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+30 Minute Hit,3,sports_and_recreation > sport_or_fitness_facility > boxing_class
+ADDITION ELLE,3,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Adams Storage - Mini Storage in Victoria & Westshore BC,3,services_and_business > storage_facility
+Advanced Health + Sports Clinic,3,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+American Eagle,3,shopping > fashion_and_apparel_store > clothing_store
+Amplifon,3,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Arc'teryx UK,3,shopping > specialty_store > sporting_goods_store > outdoor_store
+Arctic Spas Vancouver Island,3,services_and_business > home_service > pool_cleaning
+ArtsCalibre Academy,3,education > place_of_learning > specialty_school > art_school
+Assante,3,services_and_business > financial_service
+Atria Senior Living,3,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+BC Cancer Agency,3,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > doctors_office
+BMW,3,shopping > vehicle_dealer > auto_dealer
+Baskin-Robbins,3,food_and_drink > casual_eatery > dessert_shop > ice_cream_shop
+Bath & Body Works,3,lifestyle_services > personal_or_beauty_service
+BigSteelBox,3,services_and_business > storage_facility > self_storage_facility
+Bikini Village,3,shopping > specialty_store > sporting_goods_store > swimwear_store
+Bite,3,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Blue Ruby,3,shopping > fashion_and_apparel_store > jewelry_store
+Brooks Brothers,3,shopping > fashion_and_apparel_store > clothing_store
+Brown's The Florist,3,shopping > specialty_store > flowers_and_gifts_store
+Bulk Barn,3,shopping > food_and_beverage_store > grocery_store
+Bumper To Bumper Auto Parts,3,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Burger Shack,3,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Buy-Low Foods,3,shopping > food_and_beverage_store > grocery_store
+CARSTAR,3,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Call It Spring,3,shopping > fashion_and_apparel_store > shoe_store
+Camelot Homes,3,services_and_business > home_service > contractor
+CertaPro Painters,3,services_and_business > home_service > painting
+Chatime Canada 日出茶太,3,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Chipotle Mexican Grill,3,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Choice Hotels,3,lodging > hotel
+Christ Community Church,3,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Church's Chicken,3,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+CoCo Fresh Tea & Juice Richmond,3,food_and_drink > non_alcoholic_beverage_venue > smoothie_juice_bar
+Coast Appliances,3,shopping > specialty_store > hardware_home_and_garden_store > appliance_store
+Colonial Countertops Ltd. Kamloops,3,services_and_business > home_service > countertop_installation
+Convoy Supply,3,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Corner Store,3,shopping > convenience_store
+CosmoProf,3,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store > hair_supply_store
+Cultures,3,food_and_drink > casual_eatery > bakery
+Cunningham & Rivard Appraisals Ltd.,3,services_and_business > financial_service > appraisal_service
+Curious Comics,3,shopping > specialty_store > books_music_and_video_store > bookstore > comic_books_store
+DECO Windshield Repair,3,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service > windshield_installation_and_repair
+DQ Grill & Chill,3,food_and_drink > casual_eatery > fast_food_restaurant
+Dance Co.,3,sports_and_recreation > sport_or_fitness_facility > dance_studio
+EXIT Canada,3,arts_and_entertainment > gaming_venue > escape_room
+EZ-Vape Canada,3,shopping > specialty_store > smoke_and_vape_store
+Eatertainment,3,services_and_business > event_or_party_service > party_and_event_planning
+Eddie Bauer,3,shopping > fashion_and_apparel_store > clothing_store
+FIAT 500 Canada,3,shopping > vehicle_dealer > auto_dealer
+Famoso Neapolitan Pizzeria,3,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+First Baptist Church,3,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Fit4less,3,sports_and_recreation > sport_or_fitness_facility > gym
+Flight Cannabis Co,3,health_care > medical_service > medical_cannabis > cannabis_clinic
+Foot Locker,3,shopping > fashion_and_apparel_store > shoe_store
+For Pets Sake!  Pet Minder,3,shopping > specialty_store > animal_and_pet_store > pet_store
+Foundry,3,community_and_government > social_or_community_service > youth_organization
+FreshCo.,3,shopping > food_and_beverage_store > grocery_store
+Fujiya,3,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+G. Slocombe & Associates Inc.,3,services_and_business > financial_service > credit_and_debt_counseling
+GM Financial,3,services_and_business > financial_service
+Glacier Greens Par 3 Golf Course,3,geographic_entities
+GoodLife Fitness,3,sports_and_recreation > sport_or_fitness_facility > gym
+Grant Thornton Limited,3,services_and_business > financial_service > debt_relief_service
+H-Mart,3,shopping > food_and_beverage_store > grocery_store
+Hearing Care Clinic Vancouver Island,3,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Holy Family,3,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+Homesense,3,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Hone Fitness,3,sports_and_recreation > sport_or_fitness_facility > gym
+Hope Christian Reformed Church,3,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Howard Johnson,3,lodging > hotel
+ICING,3,shopping > fashion_and_apparel_store > fashion_accessories_store
+IHOP,3,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+Innov8 Digital Solutions,3,services_and_business > printing_service
+Instacoin,3,services_and_business > financial_service > atm
+Island paving,3,services_and_business > home_service > contractor > paving_contractor
+JAK's Beer Wine Spirits,3,shopping > food_and_beverage_store > liquor_store
+JYSK Canada,3,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Jordans Flooring,3,shopping > specialty_store > hardware_home_and_garden_store > rug_store
+Kerrisdale Cameras Ltd,3,shopping > specialty_store > electronics_store > camera_and_photography_store
+Koodo,3,shopping > specialty_store > electronics_store > mobile_phone_store
+League and Williams Lawyers,3,services_and_business > legal_service > attorney_or_law_firm > estate_planning_law
+Leavitt,3,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Lee's Famous Recipe Chicken,3,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Love sushi japanese restaurant,3,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Lucky Paws Pet Supply,3,shopping > specialty_store > animal_and_pet_store > pet_store
+Lunetterie New Look,3,shopping > fashion_and_apparel_store > eyewear_store
+MPW Chartered Professional Accountants LLP,3,services_and_business > financial_service > accountant
+MR MIKES,3,food_and_drink > restaurant > meat_restaurant > steakhouse
+Make Space Storage,3,services_and_business > storage_facility > self_storage_facility
+Maritime Travel Summerside,3,travel_and_transportation > travel_service
+Marshalls,3,shopping > department_store
+Mercedes-Benz,3,shopping > vehicle_dealer > auto_dealer
+Merit Home Furniture Duncan,3,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Merit Travel,3,travel_and_transportation > travel_service > travel_agent
+Michael Kors,3,shopping > fashion_and_apparel_store > clothing_store
+Miniso Canada,3,shopping
+Mobil Canada,3,travel_and_transportation > fueling_station > gas_station
+Modern Acupuncture,3,health_care > outpatient_care_facility > complementary_and_alternative_medicine > acupuncture
+Moxies,3,food_and_drink > restaurant
+Mr. Rooter Plumbing,3,services_and_business > home_service > plumbing
+Mucho Burrito,3,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+NotaryPro,3,services_and_business > legal_service > notary_public
+Onsite Engineering Ltd.,3,services_and_business > building_or_construction_service > engineering_service
+Pace Automotive,3,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Pacific Coastal Airlines,3,travel_and_transportation > air_transport_facility_or_service > airline
+Paint Shop,3,shopping > specialty_store > hardware_home_and_garden_store > nursery_and_gardening_store
+Pajo's Fish and Chips,3,food_and_drink > restaurant > seafood_restaurant > fish_and_chips_restaurant
+Penningtons,3,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Pet Food 'N More,3,shopping > specialty_store > animal_and_pet_store > pet_store
+Pita Pit,3,food_and_drink > casual_eatery > sandwich_shop
+Pizzeria Prima Strada,3,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Popeyes,3,food_and_drink > casual_eatery > fast_food_restaurant
+Prime,3,food_and_drink > restaurant > meat_restaurant > steakhouse
+Qualicare,3,health_care > medical_service > home_health_care
+Qualicum Beach Airport,3,community_and_government > social_or_community_service > community_center
+R3 Physiotherapy & Wellness,3,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+RPM Automotive,3,travel_and_transportation > vehicle_service > automotive_service
+RW&CO.,3,shopping > fashion_and_apparel_store > clothing_store
+Reliable Parts US,3,shopping > specialty_store > hardware_home_and_garden_store > appliance_store
+Remedy'sRx,3,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Richmond Public Library,3,education > library
+Romeo's Restaurants & Hotel,3,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Roto-Rooter,3,services_and_business > home_service > plumbing
+SEPHORA,3,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+SKECHERS,3,shopping > fashion_and_apparel_store > shoe_store
+SOL SPA,3,lifestyle_services > wellness_service > spa
+SWAROVSKI,3,shopping > fashion_and_apparel_store > jewelry_store
+Saint Germain Bakery,3,food_and_drink > casual_eatery > bakery
+Service BC,3,community_and_government > government_office
+Shack Shine,3,services_and_business > home_service > home_cleaning
+Simplii Financial,3,services_and_business > financial_service > bank_or_credit_union > bank
+Smile Dental,3,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Smythe Insolvency Inc.,3,services_and_business > financial_service
+Spice Hut Indian Cuisine. Moose Jaw,3,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Spinnakers,3,shopping > food_and_beverage_store > liquor_store
+St. Jean's Cannery & Smokehouse,3,shopping > food_and_beverage_store > grocery_store
+Steamoji - Sherwood Park,3,education
+Steve Nash Fitness Clubs,3,sports_and_recreation > sport_or_fitness_facility > gym
+Steve's Poké Bar,3,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Stokes,3,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Storm,3,shopping > specialty_store > sporting_goods_store > surf_store
+SuKi's Stilwechsel,3,lifestyle_services > personal_or_beauty_service > beauty_salon
+Sungiven Foods Canada,3,shopping > food_and_beverage_store > grocery_store
+Sunrise Records,3,shopping > specialty_store > books_music_and_video_store > vinyl_record_store
+Sunshine Coast Financial,3,services_and_business > financial_service > bank_or_credit_union > credit_union
+Super 8,3,lodging > hotel
+Sutton Group - West Coast - Langley,3,services_and_business > real_estate_service
+Suzy Shier,3,shopping > fashion_and_apparel_store > clothing_store
+T&T Supermarket 大統華超級市場,3,shopping > food_and_beverage_store > grocery_store
+Tablet Pharmacy,3,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Tacofino,3,food_and_drink > restaurant > latin_american_restaurant > taco_restaurant
+The Agency,3,services_and_business > real_estate_service > real_estate_agent
+The Barber,3,lifestyle_services > personal_or_beauty_service > barber
+The Old Farm Market,3,shopping > market > farmers_market
+The Original FARM,3,health_care > medical_service > medical_cannabis > cannabis_clinic
+Tommy Gun's Original Barbershop,3,lifestyle_services > personal_or_beauty_service > barber
+Tortilla,3,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Travelodge,3,lodging > hotel
+U-Lock Mini Storage,3,services_and_business > storage_facility > self_storage_facility
+Urban Planet,3,shopping > fashion_and_apparel_store > clothing_store
+Urban Systems Ltd.,3,services_and_business > professional_service
+VCA Canada Alta Vista Animal Hospital,3,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Valhalla Pure Outfitters,3,shopping > specialty_store > sporting_goods_store > outdoor_store
+Valvoline Express Care,3,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service > windshield_installation_and_repair
+Vape Street,3,shopping > specialty_store > smoke_and_vape_store
+Venue Financial,3,services_and_business > financial_service > check_cashing_payday_loans
+Visions,3,shopping > specialty_store > electronics_store
+Volkswagen,3,shopping > vehicle_dealer > auto_dealer
+WOW 1 DAY PAINTING,3,services_and_business > home_service > painting
+WOW! mobile boutique,3,shopping > specialty_store > electronics_store > mobile_phone_store
+Waves Coffee House,3,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Waypoint Convenience,3,shopping > convenience_store
+West 49,3,shopping > fashion_and_apparel_store > clothing_store
+Whole Foods Market,3,shopping > food_and_beverage_store > grocery_store
+WorkSafeBC,3,community_and_government > government_office
+Your Independent Grocer,3,shopping > food_and_beverage_store > grocery_store
+Zumiez,3,shopping > fashion_and_apparel_store > clothing_store
+chatr mobile,3,shopping > specialty_store > electronics_store > mobile_phone_store
+easyhome,3,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+pt Health,3,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+2 Percent Realty,2,services_and_business > real_estate_service > property_management
+9Round Kickboxing Fitness,2,sports_and_recreation > sport_or_fitness_facility > gym
+A&W Restaurants,2,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+ACE Courier Service,2,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+ANIÁN,2,shopping > fashion_and_apparel_store > clothing_store
+ARC Document Solutions,2,services_and_business > printing_service > commercial_printer
+Aaron's,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Abell Pest Control,2,services_and_business > home_service > pest_control_service
+Academy of Learning College - Kelowna Campus,2,education > place_of_learning > college_university
+Action Car and Truck Accessories,2,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Acura,2,shopping > vehicle_dealer > auto_dealer
+Alamo Rent A Car,2,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Alaska Airlines,2,travel_and_transportation > air_transport_facility_or_service > airport
+Alexandrite Real Estate Ltd.,2,services_and_business > real_estate_service > real_estate_agent
+Alpha Appliance Repairs,2,services_and_business > home_service > appliance_repair_service
+Alzheimer,2,community_and_government > social_or_community_service
+Amplifon Canada,2,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Ana Boutique,2,lifestyle_services > personal_or_beauty_service > beauty_salon
+Anchor Dental,2,health_care > outpatient_care_facility > dental_clinic
+Andre's Electronic Experts,2,shopping > specialty_store > electronics_store
+Andrew Sheret Limited,2,shopping
+Anna's Cake House,2,food_and_drink > casual_eatery > bakery
+Apollo Tattoo,2,lifestyle_services > personal_or_beauty_service > body_modification > tattoo_and_piercing
+Apple Dental Implant Centre,2,health_care > outpatient_care_facility > dental_clinic > cosmetic_dentistry
+Armani Exchange,2,shopping > specialty_store > outlet_store
+Arrowsmith,2,education > place_of_learning > school > private_school
+Audi,2,shopping > vehicle_dealer > auto_dealer
+BAO,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+BB.Q Chicken Vancouver,2,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+BC Emergency Health Services,2,health_care > emergency_or_urgent_care_facility > ambulance_or_ems_service
+BC First Nations Justice Council,2,services_and_business > legal_service
+BC Hydro,2,community_and_government > public_utility > electric_utility_provider
+BCBGMAXAZRIA,2,shopping > fashion_and_apparel_store > clothing_store
+BMW Motorrad,2,shopping > vehicle_dealer > motorcycle_dealer
+BackFit,2,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Bailey Nelson,2,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Banana Leaf Malaysian Cuisine,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Bar One,2,food_and_drink > restaurant
+Barber & Co,2,lifestyle_services > personal_or_beauty_service
+Bayview,2,education > place_of_learning > school > elementary_school
+Below The Belt,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Beltone Hearing,2,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Beltone Hearing Care Centre,2,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Ben Moss Jewellers,2,shopping > fashion_and_apparel_store > jewelry_store
+Bethel Baptist Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Black Goat Cashmere Deprecated,2,shopping > fashion_and_apparel_store > fashion_boutique
+Blo Blow Dry Bar,2,lifestyle_services > personal_or_beauty_service > hair_salon
+Bluebird Self Storage,2,services_and_business > storage_facility > self_storage_facility
+Body Energy Club,2,shopping > food_and_beverage_store > health_food_store
+Bodyworks Gym Krosno,2,sports_and_recreation > sport_or_fitness_facility > gym
+Bones Pet Stores,2,shopping > specialty_store > animal_and_pet_store > pet_store
+Bright Star Montessori Academy,2,services_and_business > home_service
+Broadway Camera,2,shopping > specialty_store > electronics_store > camera_and_photography_store
+Brother's Barbershop,2,lifestyle_services > personal_or_beauty_service > barber
+Browns Shoes,2,shopping > fashion_and_apparel_store > shoe_store
+Bujou,2,services_and_business > professional_service > marketing_agency
+Burberry,2,shopping > fashion_and_apparel_store > clothing_store
+Burger Crush,2,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+C2 Education,2,education > place_of_learning > specialty_school > language_school
+CHANGE Lingerie Canada,2,shopping > fashion_and_apparel_store > clothing_store > lingerie_store
+CLUB MONACO,2,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+CPR Cell Phone Repair,2,shopping > specialty_store > electronics_store
+CSN Apex Autogroup,2,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Calvin Klein,2,shopping > fashion_and_apparel_store > clothing_store > lingerie_store
+Canada Computers & Electronics,2,shopping > specialty_store > electronics_store > computer_store
+Canada's Best Karate West Coast,2,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Canadian Appliance Source,2,shopping > specialty_store > hardware_home_and_garden_store > appliance_store
+Canadian Freightways,2,services_and_business > b2b_service
+Canadian Mental Health Association NL,2,health_care > outpatient_care_facility > behavioral_or_mental_health_clinic
+Canadian Western TCM Clinic,2,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Canpro Deck and Rail LTD.,2,services_and_business > home_service > deck_and_railing_sales_service
+Capitol Theatre,2,arts_and_entertainment > performing_arts_venue > music_venue
+Career1,2,services_and_business > professional_service > employment_agency
+Cash Advantage,2,services_and_business > financial_service > installment_loans
+Cathay Pacific Airlines,2,travel_and_transportation > air_transport_facility_or_service > airline
+Champs Sports,2,shopping > specialty_store > sporting_goods_store
+Charlotte Tilbury,2,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Chartwell,2,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Chiba Sushi,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Chinese Visa Application Service Center,2,community_and_government > government_office > embassy
+Chipotle,2,food_and_drink > casual_eatery > fast_food_restaurant
+Chopped Leaf,2,food_and_drink > restaurant > comfort_food_restaurant
+Cindy Nails,2,lifestyle_services > personal_or_beauty_service > nail_salon
+Clark Freightways,2,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Climatech,2,services_and_business > home_service > hvac_service
+Code Ninjas,2,education > place_of_learning > specialty_school
+Community Baptist Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Consulat,2,community_and_government > government_office > embassy
+Cowichan Lake Area,2,lodging > hotel
+Cridge Family Pharmacy,2,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Crystal Glass,2,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service > windshield_installation_and_repair
+Cubeit Portable Storage,2,services_and_business > storage_facility
+DHL Express Россия,2,services_and_business > shipping_or_delivery_service > shipping_center
+DSW Designer Shoe Warehouse,2,shopping > fashion_and_apparel_store > shoe_store
+Dagwoods,2,food_and_drink > casual_eatery > cafe
+Daniadown Home,2,shopping > specialty_store > hardware_home_and_garden_store > home_decor_store
+Deer Garden Signatures,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Departures Travel,2,travel_and_transportation > travel_service
+Dermapure Cliniques,2,lifestyle_services > wellness_service > spa > medical_spa
+Discovery Community College,2,education > place_of_learning > college_university
+Dodd's Furniture and Mattress,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Dollarama,2,shopping > discount_store
+ECCO Shoes,2,shopping > specialty_store > outlet_store
+EILEEN FISHER,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Edge Orthodontics,2,health_care > outpatient_care_facility > dental_clinic > orthodontics
+Edible Arrangements,2,food_and_drink > casual_eatery > dessert_shop
+Elite Dogs,2,lifestyle_services > animal_or_pet_service > pet_care_service > dog_walker
+Emterra Group,2,community_and_government > public_utility > garbage_collection_service
+Expert,2,shopping > specialty_store > hardware_home_and_garden_store > christmas_tree_store
+Express,2,shopping > fashion_and_apparel_store > clothing_store
+Extreme Eatery,2,services_and_business > event_or_party_service > caterer
+Eye Recommend,2,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+F45 Training Challenge,2,sports_and_recreation > sport_or_fitness_facility > gym
+FASTSIGNS,2,services_and_business > design_service > sign_making
+FITNESS EXPERIENCE,2,shopping > specialty_store > sporting_goods_store
+Fairwinds,2,sports_and_recreation > sport_or_fitness_facility > golf_course
+Family Dental Centre,2,health_care > outpatient_care_facility > dental_clinic
+Family Pharmacy,2,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Fanny Bay Oyster Bar & Shellfish Market,2,shopping > food_and_beverage_store > fishmonger
+FedEx Ship Center,2,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Fitstop,2,sports_and_recreation > sport_or_fitness_facility > gym
+Fittopia Fitness Center,2,sports_and_recreation > sport_or_fitness_facility > gym
+Foot Solutions,2,shopping > fashion_and_apparel_store > shoe_store > orthopedic_shoe_store
+Forbes Pharmacy,2,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Fossil,2,shopping > fashion_and_apparel_store > jewelry_store
+Four Points by Sheraton,2,lodging > hotel
+Fringe Studio,2,lifestyle_services > personal_or_beauty_service > beauty_salon
+GMC,2,travel_and_transportation > vehicle_service > automotive_service
+Gap Factory,2,shopping > fashion_and_apparel_store > clothing_store
+Garden City Veterinary Care,2,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Georgian,2,services_and_business > financial_service > insurance_agency
+Gold Silver Guy Nanaimo,2,shopping > fashion_and_apparel_store > jewelry_store
+Golf Town,2,shopping > specialty_store > sporting_goods_store
+Gorilla Property Services,2,services_and_business > real_estate_service > property_management
+Grace Baptist Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Grace Lutheran Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Gracie Barra Jiu Jitsu,2,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Gyu-Kaku Japanese BBQ,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+H&M,2,shopping > fashion_and_apparel_store > clothing_store
+HAIR DIVA,2,lifestyle_services > personal_or_beauty_service > hair_salon
+Habit Coffee,2,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Habitat,2,shopping > second_hand_store
+Habitat for Humanity VIN ReStore Comox Valley,2,shopping > second_hand_store
+Haidilao Hot Pot Canada,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Happy Lamb Hot Pot,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+HearCANADA,2,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Henry's Camera,2,shopping > specialty_store > electronics_store > camera_and_photography_store
+Heritage Indian Cuisine Duncan,2,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Holiday Inn Express,2,lodging > hotel
+HollisWealth,2,services_and_business > financial_service
+Hollyburn,2,services_and_business > real_estate_service > property_management
+Holy Trinity Parish,2,cultural_and_historic > religious_organization
+Honma Golf,2,sports_and_recreation > sport_or_fitness_facility > golf_course
+Horne Lake Caves and Outdoor Centre,2,geographic_entities > land_feature > cave
+Hostelling International,2,lodging > hostel
+Hudson's Bay,2,shopping > department_store
+Hugo Boss,2,shopping > fashion_and_apparel_store > clothing_store
+ICS  Μεταφορική  Εταιρεία,2,services_and_business > b2b_service > manufacturer
+INFINITI,2,shopping > vehicle_dealer > auto_dealer
+Iglesia Ni Cristo - Christian Family Organizations,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Independent Respiratory Services,2,health_care > outpatient_care_facility > specialized_health_care > pulmonology > sleep_medicine
+Inspire Dental,2,health_care > outpatient_care_facility > dental_clinic
+Integra Tire Canada,2,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+Irene's Bakery,2,food_and_drink > casual_eatery > bakery
+Island Mediquip,2,services_and_business > b2b_service > b2b_medical_support_service > b2b_surgical_appliances_and_supplies
+Island Outfitters,2,shopping > specialty_store > sporting_goods_store > outdoor_store
+Island Poké,2,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Island Rhythmic Gymnastics Club,2,sports_and_recreation > sport_or_fitness_facility > gymnastics_center
+Island Traders New & Used,2,shopping > second_hand_store > pawn_shop
+JAN-PRO,2,services_and_business > professional_service > cleaning_service > janitorial_service
+JD Sports,2,shopping > specialty_store > sporting_goods_store
+JJ Bean Coffee,2,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+JOHN 3:16 Malaysian Delights  Richmond,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > malaysian_restaurant
+JR Property Services,2,services_and_business > home_service > home_cleaning
+Jade Seafood Restaurant,2,food_and_drink > restaurant > seafood_restaurant
+Jamie's Whaling Station & Adventure Centres,2,travel_and_transportation > travel_service > tour_operator > boat_tour
+Jazz Aviation,2,travel_and_transportation > air_transport_facility_or_service > airline
+Jim's Clothes Closet,2,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Johnston Meier Insurance Agencies Group,2,services_and_business > financial_service > insurance_agency
+Journeys,2,shopping > fashion_and_apparel_store > shoe_store
+JustCozy.ca,2,shopping > fashion_and_apparel_store > clothing_store
+K-Tech Automotive,2,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+KKP Canada,2,services_and_business > printing_service
+Ki Fitness,2,sports_and_recreation > sport_or_fitness_facility > gym
+Kids Physio Group,2,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Kingmark Canada Currency Exchange Inc.,2,services_and_business > financial_service > currency_exchange
+Kirmac Collision & Autoglass,2,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Knox Presbyterian Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Kurves Beauty,2,lifestyle_services > personal_or_beauty_service > beauty_salon
+LEGO,2,shopping > specialty_store > toys_and_games_store > toy_store
+LEhomes.es,2,services_and_business > real_estate_service
+LUNCH,2,food_and_drink > casual_eatery > delicatessen
+Labour Unlimited,2,services_and_business > professional_service > employment_agency
+Landscape By Design,2,services_and_business > home_service > landscaping
+Laura Canada,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Leopold's Tavern,2,food_and_drink > restaurant > north_american_restaurant > canadian_restaurant
+Liberty Wine Merchants Commercial Drive,2,shopping > food_and_beverage_store > liquor_store
+Lifetime Exteriors,2,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Linde Canada Inc.,2,services_and_business > b2b_service
+Liquor Planet,2,shopping > food_and_beverage_store > liquor_store
+Little Kitchen Academy,2,education > place_of_learning > specialty_school > cooking_school
+Loblaws City Market,2,shopping > food_and_beverage_store > grocery_store
+Longchamp,2,shopping > fashion_and_apparel_store > fashion_accessories_store
+Lucky 8 Vapes,2,shopping > specialty_store > smoke_and_vape_store
+Lugaro,2,shopping > fashion_and_apparel_store > jewelry_store
+MOD Pizza,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+MR.SUB,2,food_and_drink > casual_eatery > fast_food_restaurant
+Macchiato Caffé Jaén,2,food_and_drink > casual_eatery > cafe
+Magicuts,2,lifestyle_services > personal_or_beauty_service > hair_salon
+Maison Birks,2,shopping > fashion_and_apparel_store > jewelry_store
+Marble Slab Creamery,2,food_and_drink > casual_eatery > dessert_shop > ice_cream_shop
+Marc Jacobs,2,shopping > fashion_and_apparel_store > clothing_store
+Maria Montessori Academy of Utah,2,education > place_of_learning > school
+Masa Sushi,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Math4me Saanich - Victoria,2,education > educational_service > tutoring_service
+Max Mara,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+MediGas,2,services_and_business > b2b_service > b2b_medical_support_service > b2b_hospital_equipment_and_supplies
+Mediterranean Grill,2,food_and_drink > restaurant > european_restaurant > western_european_restaurant > french_restaurant
+Memory Express Computer Products Inc.,2,shopping > specialty_store > electronics_store > computer_store
+Mercedes Lane Too,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Metal Supermarkets UK,2,services_and_business > b2b_service > supplier_or_distributor > metal_supplier
+Mid Island Cabinets,2,services_and_business > home_service > countertop_installation
+Milestones,2,food_and_drink > restaurant
+Mint Massage Therapy,2,lifestyle_services > wellness_service > massage_therapy
+Mission Thrift Store Moncton,2,shopping > second_hand_store
+Mitsubishi,2,shopping > vehicle_dealer > auto_dealer
+Mobile Snap,2,shopping > specialty_store > electronics_store > mobile_phone_store
+Mobilyf,2,shopping > specialty_store > electronics_store > mobile_phone_store
+Modo Yoga,2,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Moe's Home,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Moncler,2,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Montana's BBQ,2,food_and_drink > restaurant > bar_and_grill_restaurant
+Motus Physiotherapy,2,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Mr. Electric,2,services_and_business > home_service > electrician
+Mr. Handyman,2,services_and_business > home_service > handyman
+Musicworks Canada,2,shopping > specialty_store > books_music_and_video_store > music_and_dvd_store
+My Mink Lashes & Training Academy,2,lifestyle_services > personal_or_beauty_service > beauty_salon
+Myo,2,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+M·A·C Cosmetics,2,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+National Car & Truck Sales,2,shopping > vehicle_dealer > auto_dealer > used_auto_dealer
+New Balance,2,shopping > fashion_and_apparel_store > shoe_store
+Nike,2,shopping > specialty_store > outlet_store
+Novus Glass,2,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service
+Nygard Fashion,2,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+OSIM Canada,2,lifestyle_services > wellness_service > massage_therapy
+Office Interiors,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Once Upon A Child,2,shopping > second_hand_store
+"Opa of Greece - Terrace, BC Location",2,food_and_drink > restaurant
+Origin Bakery,2,food_and_drink > casual_eatery > bakery
+Oshio Japanese and Korean Restaurant,2,education > place_of_learning > college_university
+Osteria,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Our Lady Of Ransom Rc Church,2,education > place_of_learning > school > preschool
+Oxygen Yoga & Fitness London West 5,2,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+PDG Pediatric Dentistry & Orthodontics,2,health_care > outpatient_care_facility > dental_clinic > pediatric_dentistry
+PITA LAND,2,food_and_drink > restaurant > middle_eastern_restaurant
+PUMA,2,shopping > fashion_and_apparel_store > shoe_store
+Pacific Net & Twine Ltd.,2,shopping > specialty_store > sporting_goods_store > hunting_and_fishing_store
+Pacific Poke,2,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Pallet Coffee Roasters,2,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Parker Marine Group,2,shopping > vehicle_dealer > boat_dealer
+Pearle Vision,2,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Pedalheads,2,education > educational_facility > educational_camp
+Pedego Electric Bikes,2,shopping > specialty_store > sporting_goods_store > bike_store
+Peoples Pharmacy,2,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Pho Hoa,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Pho Vy Vietnamese Restaurant,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Pizza Express,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Planet Fitness,2,sports_and_recreation > sport_or_fitness_facility > gym
+Plenty,2,shopping > fashion_and_apparel_store > clothing_store
+Poké Bar,2,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Polygon Homes,2,services_and_business > real_estate_service > builder > home_developer
+Popeye's Supplements Nanaimo,2,shopping > food_and_beverage_store > vitamin_and_supplement_store
+Primo Pizza,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Puddle Pool Services,2,services_and_business > home_service > pool_cleaning
+Pure nail bar,2,lifestyle_services > personal_or_beauty_service > nail_salon
+QE Home - Quilts Etc,2,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Quality Foods Marketing Ltd.,2,shopping > food_and_beverage_store > grocery_store
+RE/MAX Anchor & First Realty,2,services_and_business > real_estate_service
+Radisson,2,lodging > hotel
+Ram Trucks Canada,2,shopping > vehicle_dealer > auto_dealer
+Ramada Worldwide,2,lodging > hotel
+Reborn Autobody,2,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Red Robin Gourmet Burgers,2,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Redeemer Lutheran Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+"Regal Nails, Salon & Spa, LLC",2,lifestyle_services > personal_or_beauty_service > nail_salon
+Regina General Hospital,2,health_care > hospital
+Regional Recycling,2,services_and_business > home_service > recycling_center
+Relais & Châteaux,2,lodging > hotel
+Rocanini Coffee Roasters Richmond,2,food_and_drink > casual_eatery > cafe
+Romeo's Pizza,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Roofmart,2,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Rose Nails & Spa,2,lifestyle_services > personal_or_beauty_service > nail_salon
+Rothewood Academy Richmond,2,services_and_business > home_service
+Round Table Pizza,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Royal Canadian Mounted Police in Manitoba,2,community_and_government > public_safety_service > police_station
+SPINCO,2,sports_and_recreation > sport_or_fitness_facility > cycling_class
+SUSHI MURA,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Saje Wellness,2,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Sally Beauty,2,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store > hair_supply_store
+Salt Spring Coffee,2,food_and_drink > casual_eatery > cafe
+Sandman Hotel Group,2,lodging > hotel
+Sands & Associates,2,services_and_business > legal_service > attorney_or_law_firm > bankruptcy_law
+Scandesigns Furniture,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+School of Rock,2,education > place_of_learning > specialty_school > music_school
+SellOffVacations.com,2,travel_and_transportation > travel_service > travel_agent
+Sentinel Storage,2,services_and_business > storage_facility > self_storage_facility
+Shark Club,2,food_and_drink > alcoholic_beverage_venue > bar > sports_bar
+Showcase - Home Of The Hottest Trends,2,shopping > specialty_store > flowers_and_gifts_store
+Shred Nations,2,services_and_business > professional_service > shredding_service
+Simply Computing,2,shopping > specialty_store > electronics_store > computer_store
+Simply Pure Ice & Water,2,services_and_business > business > bottled_water_company
+Sirota's Alchymy Martial Arts & Life Skills - Richmond,2,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Sleep Shop,2,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+Spaces,2,services_and_business > real_estate > real_estate_service > rental_service
+Speedy,2,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Sports Barbers,2,lifestyle_services > personal_or_beauty_service > barber
+St. Anselm's Anglican Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+St. Peter's Anglican Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+Starline Windows,2,services_and_business > home_service > windows_installation
+Stitch It Clothing Alterations,2,services_and_business > laundry_service > dry_cleaning
+Structube,2,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Sunrise Senior Living,2,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Sunshine Coast Health Centre,2,health_care > specialized_medical_facility > abuse_and_addiction_treatment_center
+Symbols Multisensory Learning Centers Inc.,2,education > educational_service > tutoring_service
+T&T Supermarket Calgary Store,2,shopping > food_and_beverage_store > grocery_store
+Tesla,2,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Thai Kitchen,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Thai Son Richmond,2,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+The Boathouse Restaurant,2,food_and_drink > restaurant > seafood_restaurant
+The Butcher,2,shopping > food_and_beverage_store > butcher_shop
+The Canadian Brewhouse,2,food_and_drink > alcoholic_beverage_venue > bar > sports_bar
+The Keg Steakhouse + Bar,2,food_and_drink > restaurant > meat_restaurant > steakhouse
+The Queens Hotel,2,arts_and_entertainment > performing_arts_venue > music_venue
+The Tapestry,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Therapy One,2,lifestyle_services > wellness_service > massage_therapy
+Thrifty Car Rental,2,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Tiger Martial Arts,2,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Tip Top,2,shopping > fashion_and_apparel_store > clothing_store > formal_wear_store
+Tom Lee Music 通利琴行,2,shopping > specialty_store > books_music_and_video_store > music_and_dvd_store
+Tommy Hilfiger,2,shopping > fashion_and_apparel_store > clothing_store
+Top Shelf Feeds - Duncan retail,2,services_and_business > agricultural_service
+Tractor Everyday Healthy Foods,2,food_and_drink > restaurant > special_diet_restaurant > health_food_restaurant
+Trail Appliances BC,2,shopping > specialty_store > hardware_home_and_garden_store > appliance_store
+Travelvax Clinic,2,
+Trinity Presbyterian Church,2,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Truss Farm Food,2,food_and_drink > casual_eatery > food_truck_stand
+Tseshaht First Nation,2,community_and_government > government_office
+UC Baby Montréal 3D Échographie / 5D Ultrasound,2,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > prenatal_and_perinatal_care
+UROSPOT,2,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Umi Sushi Express - Midtown Plaza,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Uncle Faith's Pizza,2,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Under Armour,2,shopping > specialty_store > outlet_store
+Under the GUI,2,education > place_of_learning > specialty_school > computer_coaching
+Uniqlo,2,shopping > fashion_and_apparel_store > clothing_store
+Uptown Eatery,2,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Valley Collision,2,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Valley Hospice,2,health_care > medical_service > hospice
+Valley Irrigation,2,services_and_business > home_service > landscaping > gardener
+Valley Kitchens,2,services_and_business > home_service > contractor
+Valley Medical Clinic,2,health_care > outpatient_care_facility > primary_care_or_general_clinic > family_practice
+Van Isle Water,2,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Vapour Solutions,2,shopping > specialty_store > smoke_and_vape_store
+Versace,2,shopping > fashion_and_apparel_store > clothing_store
+Victory Mortgage,2,services_and_business > financial_service > mortgage_broker
+Villa sur Cherrier,2,cultural_and_historic > historic_site
+Vino Volo At Jacksonville International Airport,2,travel_and_transportation > travel_service
+Vivah Jewellery,2,shopping > fashion_and_apparel_store > clothing_store > bridal_shop
+West Coast Beauty,2,lifestyle_services > personal_or_beauty_service > beauty_salon
+West Point Cycles,2,shopping > specialty_store > sporting_goods_store > bike_store
+Westeck Windows Mfg Inc.,2,services_and_business > home_service > windows_installation
+Westin Hotels & Resorts,2,lodging > resort
+Wild Birds Unlimited,2,shopping > specialty_store > animal_and_pet_store > pet_store
+Wilderness Committee,2,services_and_business > environmental_or_ecological_service > environmental_conservation_organization
+William Wright,2,services_and_business > real_estate_service > commercial_real_estate
+Willowbrae Academy,2,services_and_business > home_service
+Wings,2,food_and_drink > restaurant > international_fusion_restaurant > asian_fusion_restaurant
+Woofy's,2,shopping > specialty_store > animal_and_pet_store > pet_store
+Xing Fu Tang Canada,2,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+YMCA,2,community_and_government > social_or_community_service > youth_organization
+YYOGA,2,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Yogen Fruz,2,food_and_drink > casual_eatery > dessert_shop
+purebread,2,food_and_drink > casual_eatery > bakery
+築地場外市場,2,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+101 Dental - Dr. Hin Long Ko Inc.,1,health_care > outpatient_care_facility > dental_clinic
+1stDataRecovery,1,services_and_business > technical_service > it_service_and_computer_repair > data_recovery
+3D LifeStyle Gujranwala,1,lifestyle_services > wellness_service > spa > medical_spa
+76,1,travel_and_transportation > fueling_station > gas_station
+8 West Cosmetic Surgery & Skin Clinic,1,lifestyle_services > wellness_service > spa > medical_spa
+ABC Recycling,1,services_and_business > home_service > recycling_center
+ABK Restoration Services,1,services_and_business > home_service > damage_restoration
+ACE Hardware Philippines,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+ALDO Shoes,1,shopping > fashion_and_apparel_store > shoe_store
+ALFA ROMEO,1,shopping > vehicle_dealer > auto_dealer
+ALSET Auto Orlando,1,travel_and_transportation > vehicle_service > automotive_service > auto_customization
+AMB Driving School,1,education > place_of_learning > specialty_school > driving_school
+ARITAUM,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+ASICS,1,shopping > specialty_store > outlet_store
+Abc Printing,1,services_and_business > printing_service
+Abercrombie & Fitch,1,shopping > fashion_and_apparel_store > clothing_store > designer_clothing
+Aberdeen dental,1,health_care > outpatient_care_facility > dental_clinic
+Abl Steel Jobs,1,services_and_business > professional_service > employment_agency
+Academics PreKindergarten Schools,1,education > place_of_learning > school > preschool
+Academy Canada,1,education > place_of_learning > specialty_school > driving_school
+Academy of Learning Career College,1,education > place_of_learning > college_university
+Acadia Dental & Dentures,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Acadia Veterinary Clinic & Pet Rehab Centre,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Achieve Health Acupuncture - Retford,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Action Transmission,1,travel_and_transportation > vehicle_service > automotive_service
+Activate,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Active Baby,1,shopping
+"Adamson & Associates Inc., Licensed Insolvency Trustee",1,services_and_business > financial_service > credit_and_debt_counseling
+Adecco,1,services_and_business > professional_service > employment_agency
+Advanced Self Storage,1,services_and_business > storage_facility > self_storage_facility
+Advantage Dental Albania,1,health_care > outpatient_care_facility > dental_clinic
+Aerie,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Afuri Vancouver 阿夫利,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Ageless Living,1,lifestyle_services > wellness_service > spa
+Agilus Work Solutions,1,services_and_business > professional_service > employment_agency
+Aiko Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Aire Serv,1,services_and_business > home_service > hvac_service
+Airhouse,1,arts_and_entertainment > amusement_attraction > amusement_park
+Airport Dental,1,health_care > outpatient_care_facility > dental_clinic
+Airport Dining,1,food_and_drink > restaurant
+Airport Terminal Services,1,travel_and_transportation > air_transport_facility_or_service > airport > airport_terminal
+Ajna Yoga Center,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Aktiv,1,services_and_business > technical_service > software_development
+Alair Homes Saskatchewan,1,services_and_business > real_estate_service > builder > home_developer
+Alive Health Centre,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+All Saints Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Allegra Marketing Print Mail,1,services_and_business > printing_service
+Allegro Coffee Company,1,food_and_drink > casual_eatery > cafe
+Alliance Française de Taïwan 台灣法國文化協會,1,education > place_of_learning > specialty_school > language_school
+Allure Hair Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Alpine Structures,1,services_and_business > b2b_service > manufacturer
+Alsco Uniforms,1,shopping > fashion_and_apparel_store > clothing_store > uniform_store
+Anchorage Marina,1,geographic_entities > built_feature > marina
+Anderson Heating and Air,1,services_and_business > real_estate > real_estate_service > rental_service
+Andrews,1,shopping > fashion_and_apparel_store > eyewear_store
+Angie's Hair Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Antica Pizzeria,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Apex Pest Control,1,services_and_business > home_service > pest_control_service
+Apotheca,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Apple Auto Glass,1,travel_and_transportation > vehicle_service > automotive_service > auto_glass_service
+Aquatera,1,community_and_government > public_utility > water_utility_provider
+Arabella Beauty,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Arbutus Rv,1,shopping > vehicle_dealer > recreational_vehicle_dealer
+Arby's,1,food_and_drink > casual_eatery > fast_food_restaurant
+"Army, Navy, & Airforce Veterans Club #293",1,community_and_government > social_or_community_service
+Artist Salon and Spa,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Ash Salon,1,lifestyle_services > personal_or_beauty_service
+Ashley HomeStore,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Aspect,1,services_and_business > professional_service > employment_agency
+At Home,1,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Atami Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Athena Pizzeria,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Atlas Café,1,food_and_drink > restaurant
+Atlas Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Attridge,1,services_and_business > real_estate_service > commercial_real_estate
+Auto Mécano,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Avalon Accounting,1,services_and_business > financial_service > accountant
+Avant Garde Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+Avenue Bistro & Bar,1,food_and_drink > restaurant
+Azalea shop,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Azumi Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+BC Assessment,1,services_and_business > financial_service > appraisal_service
+BC Smoke Shop 1960,1,shopping > food_and_beverage_store > tobacco_shop
+BC Wireless Solutions - Rogers Authorized Dealer,1,shopping > specialty_store > electronics_store > mobile_phone_store
+BEAR,1,food_and_drink > restaurant
+BEST BUY BOUWMATERIALEN & HOME-CENTRE SURINAME,1,shopping > specialty_store > electronics_store
+Back in Motion Health,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Bake My Day,1,food_and_drink > casual_eatery > bakery
+Bamboo Garden Nursery,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Bamboo Pacific Express - Gửi Hàng Quốc Tế,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Banner Carpets & Flooring,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Banyan Group,1,services_and_business > building_or_construction_service
+Bar Luna,1,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Bark & Fitz,1,lifestyle_services > animal_or_pet_service > pet_care_service > pet_groomer
+Bartle & Gibson,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Bartle & Gibson Showrooms,1,shopping > warehouse_club_store
+"Bartlett, Illinois",1,services_and_business > home_service > landscaping > tree_service
+Bath Fitter,1,services_and_business > home_service > contractor
+Baymont by Wyndham,1,lodging > hotel
+Bayview Dental Claremont,1,health_care > outpatient_care_facility > dental_clinic
+Be Fresh Local Market,1,shopping > food_and_beverage_store > grocery_store
+Beach house mudeford,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+BeaverTails - Queues de Castor,1,food_and_drink > casual_eatery > bakery
+Bed Bath & Beyond,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Beijing Bistro,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Bella Pizza,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Belmont Dental Centre,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Bench,1,education > place_of_learning > school > elementary_school
+Benefit Cosmetics,1,lifestyle_services > personal_or_beauty_service > hair_removal > waxing
+Best Little Hair House,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Bethany Baptist Church Makati,1,cultural_and_historic > religious_organization
+"Bethel Baptist Church Pekin, IL",1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > pentecostal_place_of_worship
+Big Brothers Big Sisters of Canada,1,community_and_government > social_or_community_service > youth_organization
+Big Orange Capilano Mall,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Big Star Sandwich Co.,1,food_and_drink > casual_eatery > sandwich_shop
+Bike Co.,1,shopping > specialty_store > sporting_goods_store > bike_store
+Bin There Dump That,1,community_and_government > public_utility > garbage_collection_service
+Birthright,1,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > obstetrics_and_gynecology
+Black Dog,1,food_and_drink > casual_eatery > food_truck_stand
+Black Press Media,1,services_and_business > media_service > media_news_company
+Blackball Canada,1,food_and_drink > casual_eatery > dessert_shop
+Blackcomb Helicopters,1,travel_and_transportation > air_transport_facility_or_service > airline
+Bliss Bakery,1,food_and_drink > casual_eatery > bakery
+Bloom Health Clinic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > acupuncture
+Bloomfields,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Blue Sky Clothing,1,shopping > fashion_and_apparel_store > clothing_store
+Boardwalk Burgers Sprucegrove,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Bodega Bar & Tapas Bowness,1,food_and_drink > alcoholic_beverage_venue > bar
+Bodyworx Physiotherapy Pilates & Health,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+BonLook,1,shopping > fashion_and_apparel_store > fashion_accessories_store
+Bone & Biscuit,1,shopping > specialty_store > animal_and_pet_store > pet_store
+Book Warehouse on Broadway,1,shopping > specialty_store > books_music_and_video_store > bookstore
+Bookkeeping Unlimited,1,services_and_business > financial_service > accountant
+Botánico,1,shopping > specialty_store > flowers_and_gifts_store
+BoulderHouse.lt,1,sports_and_recreation > sport_or_fitness_facility > adventure_sport > rock_climbing_spot
+Breakout Games,1,arts_and_entertainment > gaming_venue > escape_room
+Breakwater Cafe & Bistro,1,food_and_drink > restaurant
+Brewer - The Grill,1,food_and_drink > restaurant > bar_and_grill_restaurant
+Bricks & Mortar - everything real estate,1,services_and_business > event_or_party_service
+Brooke Radiology Associates,1,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > doctors_office
+Brown Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Browns Crafthouse FSJ,1,food_and_drink > restaurant > north_american_restaurant > canadian_restaurant
+Brush Salon,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Bubby's,1,services_and_business > home_service
+Bulgari,1,shopping > fashion_and_apparel_store > jewelry_store
+Bulk Barn Saint-Georges,1,shopping > food_and_beverage_store > grocery_store
+Burb Cannabis Stores,1,health_care > medical_service > medical_cannabis > cannabis_clinic
+Burger Factory,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Burgoo,1,food_and_drink > restaurant > comfort_food_restaurant
+Burt's Barbershop,1,lifestyle_services > personal_or_beauty_service > barber
+Buzzy’s Inflatables,1,food_and_drink > casual_eatery > delicatessen
+C'Esthétique,1,lifestyle_services > personal_or_beauty_service > hair_salon
+CC Equipment Authorized Wacker Neuson Dealer,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+CCM Canada 加拿大中信,1,community_and_government > social_or_community_service
+CDI College,1,education > place_of_learning > college_university
+CHICHA San Chen Ph,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+CORE Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+CP Distributors Ltd.,1,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+CRAFT Beer Market,1,food_and_drink > alcoholic_beverage_venue > bar > beer_bar
+CWMM Consulting Engineers Ltd.,1,services_and_business > building_or_construction_service > engineering_service
+Cabela's,1,shopping > specialty_store > sporting_goods_store > hunting_and_fishing_store
+Cabinetworks,1,services_and_business > home_service > countertop_installation
+Café Dépot,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Calforex,1,services_and_business > financial_service > currency_exchange
+Calvary Connex,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Camacc,1,services_and_business > technical_service > computer_hardware_company
+Campus Pharmacy,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Canada Diagnostic Centres,1,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > doctors_office
+Canada Gold,1,shopping > fashion_and_apparel_store > jewelry_store
+Canada Goose,1,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Canadian College,1,education > place_of_learning > college_university
+Canadian Energy,1,services_and_business > business > energy_company
+Canadian Linen,1,shopping > fashion_and_apparel_store > clothing_store > uniform_store
+Canadian Maritime Engineering Ltd.,1,services_and_business > building_or_construction_service > engineering_service
+Canco #144 Fort St James Suspenders General Store,1,travel_and_transportation > fueling_station > gas_station
+Canco Petroleum Ltd.,1,shopping > convenience_store
+Canine Academy,1,lifestyle_services > animal_or_pet_service > pet_care_service > pet_training > dog_trainer
+CannaConnect,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Canterbury Coffee,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Canterbury Court,1,services_and_business > housing_or_property_service > condominium
+Cap-it Canada,1,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+"Capernwray Hall, England",1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Capilano University,1,education > place_of_learning > college_university
+Caposhie,1,shopping > fashion_and_apparel_store > clothing_store
+Care Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Cargojet,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Carl's Jr.,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Cascades Recovery Inc,1,services_and_business > home_service > recycling_center
+Cascadia Health,1,lifestyle_services > wellness_service > massage_therapy
+Cashco Financial,1,services_and_business > financial_service
+Casino House,1,arts_and_entertainment > gaming_venue > casino
+Cassels,1,services_and_business > legal_service
+Cat Nap Inn,1,lifestyle_services > animal_or_pet_service > pet_care_service > pet_boarding
+Catalyst Paper tiskʷat,1,services_and_business > business > industrial_company
+Cedar Grove Elementary School - SD46,1,education > place_of_learning > school > elementary_school
+Cedar Springs Ranch,1,lodging > campground
+Cell Doctor LTD,1,services_and_business > technical_service > it_service_and_computer_repair
+Centennial Court Hotel,1,cultural_and_historic > historic_site
+Central Agencies Ltd. Insurance Brokers - Lynn Valley,1,services_and_business > financial_service > insurance_agency
+Central Baptist Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Central Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Central Landscape Supplies,1,services_and_business > home_service > landscaping
+Central Mountain Air,1,travel_and_transportation > air_transport_facility_or_service > airline
+Century Dental Clinic - Welwyn Garden City,1,health_care > outpatient_care_facility > dental_clinic
+Century Healthcare Vancouver,1,health_care > outpatient_care_facility
+Certified Folder Display Service,1,services_and_business > media_service > media_news_company > publisher
+Chachi's,1,food_and_drink > restaurant
+Chatters,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Chaumet,1,shopping > fashion_and_apparel_store > jewelry_store
+Chemistry,1,shopping > fashion_and_apparel_store > clothing_store
+Chicko Chicken Kamloops,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+China Eastern Airlines,1,travel_and_transportation > air_transport_facility_or_service > airline
+Chiropractic Plus,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Chiropractic Wellness Centre,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Chocho Hot Pot Katy Premium All You Can Eat,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Choices Clothing Store,1,shopping > food_and_beverage_store > grocery_store
+Chop Steakhouse & Bar,1,food_and_drink > restaurant > meat_restaurant > steakhouse
+Chow Jewellery（V-City M86-88號鋪）,1,shopping > fashion_and_apparel_store > jewelry_store
+Christ Church Cathedral Dublin,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+Cinnaholic,1,food_and_drink > casual_eatery > bakery
+City Light Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+City Tile &  Floor Covering,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+City Transfer,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Civello Salon & Spa,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Clear Dental,1,health_care > outpatient_care_facility > dental_clinic
+Clinique,1,health_care > hospital
+Clément,1,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+CoCo Bubble Tea East Coast,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Coast Ability,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Coast Aluminum Tijuana,1,services_and_business > home_service > ceiling_and_roofing_repair_and_service > roofing
+Coast Ice & Cold Solutions,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Coast Roofing,1,services_and_business > home_service > ceiling_and_roofing_repair_and_service > roofing
+Coastal Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Coastal Crust,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Coastal Dance,1,sports_and_recreation > sport_or_fitness_facility > dance_studio
+Coastal Dermatology,1,health_care > outpatient_care_facility > specialized_health_care > medical_skin_care > dermatology
+Coastline Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Coco Cafe - Portorož,1,food_and_drink > casual_eatery > cafe
+Coffee Lab,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Coho Commissary,1,food_and_drink > restaurant
+Cole Haan,1,shopping > fashion_and_apparel_store > shoe_store
+Cole International,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Colliers Canada,1,services_and_business > real_estate_service > commercial_real_estate
+Colorworks,1,travel_and_transportation > vehicle_service > automotive_service > auto_body_shop
+Columbia,1,shopping > fashion_and_apparel_store > clothing_store
+Columbia Academy,1,education > place_of_learning > college_university
+Columbia Sportswear,1,shopping > specialty_store > outlet_store
+Commissionaires,1,services_and_business > professional_service
+Community Futures British Columbia,1,services_and_business > professional_service
+Community of Christ,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Concord Pacific - Canada,1,services_and_business > real_estate_service > builder > home_developer
+Concord Social,1,services_and_business > real_estate_service > builder > home_developer
+Concordia,1,health_care > outpatient_care_facility > behavioral_or_mental_health_clinic
+"Congregation Emanu-El, Victoria, British Columbia",1,cultural_and_historic > place_of_worship > jewish_place_of_worship
+Connect Family Law,1,services_and_business > legal_service > attorney_or_law_firm > divorce_and_family_law
+Consulate General of China in São Paulo 中国驻圣保罗总领馆 Consulado Geral da China em São Paulo,1,community_and_government > government_office > embassy
+ContainerCo,1,services_and_business > storage_facility
+Cool As A Moose,1,shopping > fashion_and_apparel_store > clothing_store
+Cora,1,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+Cork and Barrel,1,shopping > food_and_beverage_store > liquor_store
+Corner Liquor,1,shopping > food_and_beverage_store > beer_wine_spirits_store
+Cornerstone Counselling,1,health_care > outpatient_care_facility > behavioral_or_mental_health_clinic
+Country Club Dental Care,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Country West Supply - Armstrong,1,services_and_business > agricultural_service
+Courtesy Cleaners,1,services_and_business > laundry_service > dry_cleaning
+Courtyard by Marriott,1,lodging > hotel
+Crate and Barrel Middle East,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Creative Childcare - Hunter St Newcastle,1,services_and_business > home_service
+Creative Cove Courtenay,1,education > place_of_learning > specialty_school > art_school
+Crofton Industries,1,education > place_of_learning > school > elementary_school
+Crossroads Community Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Crossroads ObGyn & Wellness Central Houston,1,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > obstetrics_and_gynecology
+Crossroads Pregnancy Center,1,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > prenatal_and_perinatal_care
+Crown Packaging,1,services_and_business > shipping_or_delivery_service > shipping_center
+Cullen Diesel Power,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Culligan,1,services_and_business > b2b_service > b2b_environmental_service > b2b_water_treatment_service
+Cushman & Wakefield,1,services_and_business > real_estate_service > commercial_real_estate
+DAVIDsTEA,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+DHARMA KITCHEN,1,food_and_drink > restaurant > special_diet_restaurant > vegetarian_restaurant
+Daisy Children’s Home,1,education > place_of_learning > school > preschool
+Dami sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Dave's Automotive,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+De Dutch Pannekoek House,1,food_and_drink > casual_eatery > diner
+DeSerres,1,shopping > specialty_store > arts_crafts_and_hobby_store > art_supply_store
+Deco De Mode The Beauty Clinic,1,lifestyle_services > wellness_service > spa > medical_spa
+Delmar International Inc,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service > freight_forwarding_agency
+Deloitte,1,services_and_business > financial_service > accountant
+Delta Air Lines,1,travel_and_transportation > air_transport_facility_or_service > airline
+Delta Hotels,1,lodging > resort
+Dental Dreams,1,health_care > outpatient_care_facility > dental_clinic
+Desigual,1,shopping > fashion_and_apparel_store > clothing_store
+Desjardins,1,services_and_business > financial_service
+Devlin Funeral Home,1,services_and_business > family_service > funeral_service
+Diamond and Diamond Lawyers LLP,1,services_and_business > legal_service > attorney_or_law_firm
+Diesel,1,shopping > fashion_and_apparel_store > clothing_store
+Direct Travel Vacations Canada,1,travel_and_transportation > travel_service
+Discount Tire,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Diva Nail,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Divino Wine & Spirits,1,food_and_drink > alcoholic_beverage_venue > winery
+Docbraces MCO Orthodontics,1,health_care > outpatient_care_facility > dental_clinic > orthodontics
+Dolce & Gabbana,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Dollar Car Rental,1,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Dollar Tree Canada,1,shopping > discount_store
+Dolphin Oceanfront Motel,1,lodging > hotel > motel
+Don Tacos,1,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Donnelly Ford Lincoln,1,shopping > vehicle_dealer
+DosBros,1,food_and_drink > restaurant > latin_american_restaurant > texmex_restaurant
+Dots Stores,1,shopping > discount_store
+Double Double,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+DoubleTree by Hilton,1,lodging > hotel
+Doyle Construction Co.,1,services_and_business > home_service > contractor
+Dr Phone Fix,1,shopping > specialty_store > electronics_store > mobile_phone_store
+Dr. Bee,1,shopping > food_and_beverage_store > health_food_store
+Dragonfly Books,1,shopping > specialty_store > books_music_and_video_store > bookstore
+DriveWise British Columbia,1,education > place_of_learning > specialty_school > driving_school
+Duck Creek Regional Library,1,services_and_business > agricultural_service > farm
+Dulux Canada,1,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Duty Free,1,shopping > specialty_store > duty_free_store
+Dwelling Place,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+ECCO Supply,1,shopping > warehouse_club_store
+EHN Edgewood Nanaimo,1,health_care > specialized_medical_facility > abuse_and_addiction_treatment_center
+EQ3,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+EURO-SPA,1,lifestyle_services > wellness_service > spa > day_spa
+EVA Airways Corp. 長榮航空,1,travel_and_transportation > air_transport_facility_or_service > airline
+EY,1,services_and_business > professional_service > business_consulting
+EYELAND OPTICAL,1,shopping > fashion_and_apparel_store > eyewear_store
+Eager Beaver Tree Service,1,services_and_business > home_service > landscaping > tree_service
+Eagle Professional Resources,1,services_and_business > professional_service > employment_agency
+Eaglequest Grandview Golf,1,sports_and_recreation > sport_or_fitness_facility > golf_course
+Eastminster,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+Echo Hearing Solutions,1,health_care > outpatient_care_facility > specialized_health_care > ear_nose_and_throat > audiology
+Ecoline Windows,1,services_and_business > home_service > contractor
+Electric Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Elektra,1,arts_and_entertainment > performing_arts_venue > music_venue > choir
+Elements Massage,1,lifestyle_services > beauty_service > skin_care_and_makeup > makeup_artist
+Elements of Health,1,lifestyle_services > wellness_service > spa > health_spa
+Elephant & Castle,1,food_and_drink > restaurant > north_american_restaurant > american_restaurant
+Elite Dance Academy,1,sports_and_recreation > sport_or_fitness_facility > dance_studio
+Elite Fire Protection,1,services_and_business > home_service > fire_protection_service
+Elysian Coffee Roasters,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Emco - Cranbrook,1,services_and_business > home_service > hvac_service
+Emerald Eye Care Optometry,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Emmanuel Baptist Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Empire Athletics,1,sports_and_recreation > sport_or_fitness_facility > gym
+Emporio Armani,1,shopping > fashion_and_apparel_store > clothing_store
+EnChroma,1,shopping > fashion_and_apparel_store > eyewear_store
+End Of The Roll - Saskatoon - SK,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Energia,1,sports_and_recreation > sport_or_fitness_facility
+Energy Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+Engineered Air,1,services_and_business > home_service > hvac_service
+Equinox,1,sports_and_recreation > sport_or_fitness_facility > horse_riding > equestrian_facility
+Escape Key - Room Escape Game,1,arts_and_entertainment
+Estee Lauder,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Estheva,1,lifestyle_services > personal_or_beauty_service > skin_care_and_makeup
+EverLine Coatings and Services USA,1,services_and_business > home_service > contractor > paving_contractor
+Evergreen Church,1,education > place_of_learning > school > elementary_school
+Everything Wine,1,shopping > food_and_beverage_store > liquor_store
+Evolve Hair Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Exposure Clothing,1,shopping > fashion_and_apparel_store > clothing_store
+Express Employment International,1,services_and_business > professional_service > employment_agency
+Extra Storage Now Duncan,1,services_and_business > storage_facility > self_storage_facility
+Eye Care Centre,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic
+Eye Deal Optical,1,shopping > fashion_and_apparel_store > eyewear_store
+Eye Level,1,education > educational_service > tutoring_service
+Eye Optical,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+FIX. Coffee Bar & Bakery,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+FPInnovations,1,services_and_business > b2b_service > b2b_science_and_technology_service
+Fabricland Duncan,1,shopping > specialty_store > arts_crafts_and_hobby_store > fabric_store
+Fairfield Village Dental Centre,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Fairview Baptist Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Family Express Canada Ltd.,1,services_and_business > financial_service
+Famous Footwear,1,shopping > fashion_and_apparel_store > shoe_store
+Famous Wok,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Faubourg,1,food_and_drink > casual_eatery > bakery
+FedEx,1,services_and_business > shipping_or_delivery_service > shipping_center
+Fellowship Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Fiat,1,shopping > vehicle_dealer > auto_dealer
+Fifth Street Coffeehouse,1,food_and_drink > restaurant > bar_and_grill_restaurant
+Fill Station Pillow Kiosk,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Finning Canada,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Fire & Flower,1,health_care > medical_service > medical_cannabis > cannabis_clinic
+First Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+First Commercial Bank,1,services_and_business > financial_service > bank_or_credit_union > bank
+First General,1,services_and_business > home_service > damage_restoration
+First Lutheran Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Fisherman's Wharf,1,food_and_drink > restaurant
+Fjällräven,1,shopping > fashion_and_apparel_store > clothing_store
+Flavours Of India,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Flip Flop Shops,1,shopping > fashion_and_apparel_store > shoe_store
+Floform Countertops,1,services_and_business > home_service > countertop_installation
+Floors for Less - Vancouver Island's Laminate Superstore,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Floyd's 99 Barbershop,1,lifestyle_services > personal_or_beauty_service > barber
+Flying Squirrel Spokane,1,sports_and_recreation > sport_or_fitness_facility
+Footloose Shoes,1,shopping > fashion_and_apparel_store > shoe_store
+Ford Motor Company,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Forever 21,1,shopping > fashion_and_apparel_store > clothing_store
+Forever Young Beauty,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Form Health,1,health_care > outpatient_care_facility
+Form Physiotherapy,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Foveō Running,1,shopping > specialty_store > sporting_goods_store
+Fox & Hounds,1,food_and_drink > alcoholic_beverage_venue > bar > pub
+Franciscan Friars - Mount St. Francis Retreat Centre,1,cultural_and_historic > religious_organization
+Fraser Valley Wireless - Rogers Authorized Dealer,1,services_and_business > business > telecommunications_company
+Fraserview meats,1,shopping > food_and_beverage_store > grocery_store
+Free people Israel,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Friendly Dental Care,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Friendship Community,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Frilly Lilly,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Frogbox,1,services_and_business > storage_facility
+Fusion Creative,1,services_and_business > professional_service > marketing_agency
+Fusion Hair,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Fuzz Wax Bar,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+GC Motors,1,shopping > vehicle_dealer
+GEC Living,1,lodging
+GFL Environmental,1,community_and_government > public_utility > garbage_collection_service
+GIORDANO,1,shopping > fashion_and_apparel_store > clothing_store
+GOLFTEC,1,sports_and_recreation > sport_or_fitness_facility > golf_instructor
+GRECO,1,food_and_drink > restaurant
+GROW Health,1,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > maternity_center
+GUESS,1,shopping > fashion_and_apparel_store > clothing_store
+Game Ready Sports Association,1,sports_and_recreation > sport_or_recreation_club
+Garden City Dental,1,health_care > outpatient_care_facility > dental_clinic
+Garnet Construction,1,services_and_business > building_or_construction_service
+Gate Gourmet,1,services_and_business > event_or_party_service > caterer
+Gateway Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Gateway Veterinary Services,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Gen Korean BBQ House,1,food_and_drink > restaurant > meat_restaurant > barbecue_restaurant
+Generations Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+George Richards Big & Tall Menswear,1,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Geox,1,shopping > fashion_and_apparel_store > clothing_store
+Gescan,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Gilmore Elementary School PTO,1,education > place_of_learning > school > elementary_school
+Ginger indian cuisine,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Glam NailStudio,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Glass Doctor,1,services_and_business > home_service > glass_and_mirror_sales_service
+Global Pet Foods - Sydney,1,shopping > specialty_store > animal_and_pet_store > pet_store
+Globalex gestion de risques/Front Row Assurance,1,services_and_business > financial_service > insurance_agency
+Glow Luxe Skin Care,1,lifestyle_services > wellness_service > spa > medical_spa
+Goh Ballet Academy,1,sports_and_recreation > sport_or_fitness_facility > dance_studio
+Gold's Gym,1,lifestyle_services > wellness_service > health_and_wellness_club
+Gold's Gym West Broadway,1,sports_and_recreation > sport_or_fitness_facility > gym
+Golden Feet Reflexology,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > reflexology
+Good Co. Bars,1,food_and_drink > restaurant > bar_and_grill_restaurant
+Gourmet Girl Cafe and Catering,1,food_and_drink > casual_eatery > cafe
+Grace Covenant Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+GraceMed,1,health_care > outpatient_care_facility > primary_care_or_general_clinic > family_practice
+GracePoint,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Grand Yachts Inc.,1,shopping > vehicle_dealer > boat_dealer
+Grant Illuminated Signs Ltd,1,services_and_business > design_service > sign_making
+Green leaf sushi Burnaby,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Greenhawk Ville De Québec,1,shopping > specialty_store > sporting_goods_store
+Gregg Distributors LP,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Grotto,1,food_and_drink > restaurant > north_american_restaurant > american_restaurant
+Grounds For Coffee Harrison Blvd.,1,food_and_drink > casual_eatery > cafe
+Group 1 Automotive,1,shopping > vehicle_dealer > auto_dealer
+Gucci,1,shopping > fashion_and_apparel_store > fashion_boutique
+Guru Nanak Gurdwara Leicester,1,cultural_and_historic > place_of_worship > sikh_place_of_worship
+Gyubee Japanese Grill,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Hair Peace,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Halibut House,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Hallmark Cleaners,1,services_and_business > laundry_service > dry_cleaning
+Hampton by Hilton,1,lodging > hotel
+Handyman Connection | Corporate,1,services_and_business > home_service > handyman
+Hanna Contracting Inc.,1,services_and_business > home_service > contractor
+Harbour Health Integrated Therapies,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Harley-Davidson,1,shopping > vehicle_dealer > motorcycle_dealer
+Harvest Christian Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Harvey's,1,food_and_drink > casual_eatery > fast_food_restaurant
+Hatley,1,shopping > fashion_and_apparel_store > clothing_store
+Headmasters Salon & Spa Chandigarh,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Healthserv Los Baños Medical Center,1,
+Healthy Spot,1,shopping > specialty_store > animal_and_pet_store > pet_store
+Heart and Sole Shoes,1,shopping > fashion_and_apparel_store > shoe_store
+Heavenly Desserts UK,1,food_and_drink > casual_eatery > dessert_shop
+Heavy Metal,1,services_and_business > b2b_service > manufacturer > metal_fabricator
+Hellcrust Robson,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Hellmann Worldwide Logistics,1,services_and_business > b2b_service
+Hello Nori,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Heritage Park,1,sports_and_recreation > park
+Hermès,1,shopping > specialty_store > flowers_and_gifts_store
+HiFive Chicken,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Hibiki,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Higgy's On The Track - Motorcycle Track Days On Vancouver Island,1,
+Highroads Medical Clinic,1,health_care > outpatient_care_facility > primary_care_or_general_clinic > family_practice
+Hill's Dry Goods,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Hillcrest Estate,1,lodging > bed_and_breakfast
+Hilton Hotels & Resorts,1,lodging > hotel
+Hokkaido Ramen Santouka on Dundas St E,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Hollywood Theatre Vancouver Canada,1,arts_and_entertainment > performing_arts_venue > music_venue
+Holy Name of Jesus Catholic Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+Holywell Care Group,1,services_and_business > real_estate_service > property_management
+Home Instead Lewisham and Southwark,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Home Outfitters,1,shopping > department_store
+Homestead Farm,1,services_and_business > agricultural_service > farm
+Honolulu Coffee,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Honor Wellness Center,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Hooked,1,shopping > food_and_beverage_store > fishmonger
+Hope Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Horror Escape,1,arts_and_entertainment > gaming_venue > escape_room
+Hot Topic,1,shopping > fashion_and_apparel_store > fashion_accessories_store
+Hot Topic Paducah,1,shopping > specialty_store > toys_and_games_store > toy_store
+Hour Passion,1,shopping > fashion_and_apparel_store > fashion_boutique
+House of Friendship,1,community_and_government > social_or_community_service > social_and_human_service
+House of Travel,1,travel_and_transportation > travel_service
+"Hub City Cycles - Hagerstown, Maryland",1,shopping > specialty_store > sporting_goods_store > bike_store
+Hugo's Mexican Kitchen,1,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+Hula Poke McArthur Glen Outlet Mall,1,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Hunter Dental Group Greenhills,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Hush Beauty MD,1,lifestyle_services > wellness_service > spa > medical_spa
+Hà Hair Salon,1,lifestyle_services > personal_or_beauty_service > hair_salon
+ICF,1,services_and_business > professional_service
+IDA Pharmacy,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+ISOMATIC Integrative Health Centre,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+ITS  -  Integrated Telemanagement Services  Inc.,1,services_and_business > business > telecommunications_company
+Icebreaker,1,shopping > fashion_and_apparel_store
+Ichiban Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Il Terrazzo Heatherhill,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Imagine Laserworks,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Impulse Studio,1,sports_and_recreation > sport_or_fitness_facility > gym
+In Bloom,1,shopping > specialty_store > flowers_and_gifts_store > florist
+Incredible Closets Incredible Home,1,services_and_business > home_service > contractor
+Indian Palate,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Industrial Plastics & Paints,1,shopping > warehouse_club_store
+Inland Truck & Equipment,1,shopping > vehicle_dealer > truck_dealer
+Inner Balance Massage,1,lifestyle_services > wellness_service > massage_therapy
+Innovative Fitness Port Moody,1,sports_and_recreation > sport_or_fitness_facility > gym
+Inside Out Healing,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Inspiration Learning Center,1,education > educational_service > tutoring_service
+Instant Imprints,1,services_and_business > printing_service > 3d_printing_service
+Intact Insurance – Intact Assurance,1,services_and_business > financial_service > insurance_agency
+Irish Times,1,food_and_drink > alcoholic_beverage_venue > bar > pub
+Island Blue Hotel,1,services_and_business > printing_service
+Island Family Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Island Kids Las Americas,1,services_and_business > home_service
+Island View Nursery,1,shopping > specialty_store > hardware_home_and_garden_store > nursery_and_gardening_store
+J&G Fried Chicken Canada,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+J.K.Electric -Генераторы и Стартеры,1,services_and_business > home_service > electrician
+JACK & JONES,1,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+JC Automotive Repairs,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+JDI Cleaning Services,1,services_and_business > home_service > home_cleaning
+JINYA Ramen Bar,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+JR Furniture & Mattress,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+JUST POKÈ,1,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Jack The Modern Barbershop,1,lifestyle_services > personal_or_beauty_service > barber
+Jack's Place,1,food_and_drink > casual_eatery > fast_food_restaurant
+Jaguar,1,shopping > vehicle_dealer > auto_dealer
+Japan Shiatsu Clinic at The Quay Market and Food Hall,1,lifestyle_services > wellness_service > massage_therapy
+Jensen Marine,1,shopping > specialty_store > sporting_goods_store
+Jet FM 91.2,1,services_and_business > media_service > media_news_company > broadcasting_media_production
+Jo Malone London,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+John Howard Society of Manitoba,1,community_and_government
+John The Plumber,1,services_and_business > home_service > plumbing
+Johnson Financial Group,1,services_and_business > financial_service > insurance_agency
+Jollibee,1,food_and_drink > restaurant > international_fusion_restaurant > asian_fusion_restaurant
+Jones Insurance,1,services_and_business > financial_service > broker > business_broker
+Juba tattoo,1,lifestyle_services > personal_or_beauty_service > body_modification > tattoo_and_piercing
+K Chicken Invercargill,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+KAROON PILATES STUDIO,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > pilates_studio
+KMS Tools & Equipment,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+KOI Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+KORNA Pet,1,shopping > specialty_store > animal_and_pet_store > pet_store
+KORYO,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > korean_restaurant
+Kaiseki,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Kasian,1,services_and_business > design_service > architect
+Kebe and Fast Company,1,shopping > specialty_store > pop_up_store
+Kelly O'Bryan's Restaurant & Carlos O'Bryan's Pub Kelowna,1,food_and_drink > restaurant > european_restaurant > western_european_restaurant > irish_restaurant
+Kenmore Air,1,travel_and_transportation > air_transport_facility_or_service > airline
+Key Storage,1,services_and_business > storage_facility
+Khalsa Credit Union,1,services_and_business > financial_service > bank_or_credit_union > credit_union
+Kids & Company,1,services_and_business > home_service
+Kiehl's,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+King Living,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Kingdom-Beauty,1,shopping > specialty_store > personal_care_and_beauty_store > beauty_supply_store
+Kings Restaurant,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Kirin Seafood Restaurant (Starlight),1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Kitcho,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Krispy Kreme Doughnuts,1,food_and_drink > casual_eatery > dessert_shop > donut_shop
+Kumare Restaurant and Bakery,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > filipino_restaurant
+Kung Fu Tea,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Kuo Hua Trading・國華台灣食品,1,shopping > food_and_beverage_store
+L.L.Bean,1,shopping > specialty_store > sporting_goods_store
+LA Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+LASIK MD US,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > ophthalmology > refractive_surgery_or_lasik
+LAZIZA,1,food_and_drink > restaurant > theme_restaurant
+La Canapa boutique,1,health_care > medical_service > medical_cannabis > cannabis_clinic
+La Quinta by Wyndham,1,lodging > hotel
+La Roux Patisserie Inc.,1,food_and_drink > casual_eatery > bakery
+La Taqueria Sabores Mexicanos,1,food_and_drink > restaurant > latin_american_restaurant > mexican_restaurant
+"La-Z-Boy of Springfield, MO",1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Lab Studios,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Lacoste,1,shopping > fashion_and_apparel_store > clothing_store
+Lagree West,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > pilates_studio
+Lake View Credit Union,1,services_and_business > financial_service > bank_or_credit_union > credit_union
+Land Rover,1,shopping > vehicle_dealer
+Landmark Dental,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Landmark Sign Group,1,services_and_business > design_service > sign_making
+"Langford, British Columbia",1,community_and_government > public_safety_service > fire_station
+Langley Farm Market,1,shopping > food_and_beverage_store > grocery_store
+LaserQuit Therapies Headquarters,1,health_care > specialized_medical_facility > abuse_and_addiction_treatment_center
+Launch Rehab,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Lavender Wedding,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Lazzoni,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Le Coq Frit Express Montreal Chinatown,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Le Creuset Italia,1,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Le Méridien,1,lodging > hotel
+Le Petit Saigon,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Le Pho,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Lee Valley Tools,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Legendary Noodles,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Legends Pub & Grill,1,food_and_drink > alcoholic_beverage_venue > bar > sports_bar
+Leon's India,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Lexus,1,shopping > vehicle_dealer > auto_dealer
+Liberty Ft Myers,1,food_and_drink > restaurant > north_american_restaurant > canadian_restaurant
+Life Community Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+LightHouse Dental,1,health_care > outpatient_care_facility > dental_clinic
+Lighthouse Bistro Atwood Lake,1,food_and_drink > alcoholic_beverage_venue > bar > pub
+Lighthouse Church - Secunda,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Lincoln,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Lindt,1,food_and_drink > casual_eatery > candy_store > chocolatier
+Lions Bay General Store & Café,1,sports_and_recreation > park
+Little Blue House,1,shopping > fashion_and_apparel_store > clothing_store
+Little Farms,1,services_and_business > agricultural_service > farm
+Little Friends,1,services_and_business > home_service
+Little Genius,1,services_and_business > home_service
+Little Smiles Multispeciality Dental Clinic,1,health_care > outpatient_care_facility > dental_clinic > pediatric_dentistry
+Liuyishou Hotpot 刘一手火锅,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Living Hope Bible Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Living Hope Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Living Hope Community Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Lockhart Shire Council,1,services_and_business > home_service > contractor
+Looking Glass Salon,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Lormit Management Systems Inc.,1,services_and_business > legal_service
+Louis Vuitton,1,shopping > fashion_and_apparel_store > fashion_accessories_store
+Lovisa,1,shopping > fashion_and_apparel_store > jewelry_store
+Low Cost Storage Glendora,1,services_and_business > storage_facility
+Lowe's Home Improvement,1,shopping > specialty_store > hardware_home_and_garden_store
+Lucky Brand,1,shopping > fashion_and_apparel_store > clothing_store
+Lucky's Liquor Store,1,shopping > food_and_beverage_store > liquor_store
+Luminous Nails and Spa,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Läderach - Thailand,1,food_and_drink > casual_eatery > candy_store > chocolatier
+MEC,1,shopping > specialty_store > sporting_goods_store
+MEC Mountain Equipment Company,1,shopping > specialty_store > sporting_goods_store > outdoor_store
+MJ's Natural Pharmacy,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+MUJI Canada,1,shopping > department_store
+Ma's Kitchen,1,food_and_drink > casual_eatery > dessert_shop > ice_cream_shop
+Mackage,1,services_and_business > business > clothing_company
+Magic Places - Cycling Adventures,1,services_and_business > business > travel_company
+Magoo's Pizza,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Mainland Sleep Diagnostics Ltd.,1,health_care
+Maker House,1,shopping > specialty_store > arts_crafts_and_hobby_store
+Mandarin Restaurants,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Maple Grove by Megaworld,1,education > place_of_learning > school > elementary_school
+Maple Leaf Self Storage,1,services_and_business > storage_facility > self_storage_facility
+Marriott Hotels,1,lodging > hotel
+Marshall Rousso,1,shopping
+Maruhachi Ra-men Canada,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Maserati,1,travel_and_transportation > vehicle_service > automotive_service
+Maska Mode,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Mason Place,1,shopping > food_and_beverage_store > grocery_store
+Masonic Temple,1,community_and_government > social_or_community_service
+Mastera,1,education > place_of_learning > college_university
+Mastermind Toys Regina,1,shopping > specialty_store > toys_and_games_store > toy_store
+Match Eatery & Public House - Kamloops,1,food_and_drink > alcoholic_beverage_venue > bar > pub
+MathConcept Education,1,education
+Mavi,1,shopping > fashion_and_apparel_store > clothing_store > t_shirt_store
+Maxx Car Rental,1,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Maxxam Group,1,services_and_business > financial_service > insurance_agency
+Mayers Packaging,1,services_and_business > shipping_or_delivery_service > shipping_center
+Meadowbrook Farm,1,services_and_business > agricultural_service > farm
+Meat & Bread,1,food_and_drink > casual_eatery > sandwich_shop
+Melanie Lyne,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Melting Moments - Homemade Ice Creams,1,services_and_business > event_or_party_service > caterer
+Meltwich Food Co,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Meltwich Food Co Hess Village,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Men In Kilts,1,services_and_business > home_service > home_cleaning
+Mercedes-Benz Vans,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Mercy Ships Australia,1,community_and_government > civic_organization > charity_organization
+Metro Liquor BC,1,shopping > food_and_beverage_store > liquor_store
+Metropolitan Grill - Seattle,1,food_and_drink > restaurant > north_american_restaurant > canadian_restaurant
+Mia Ropa y accesorios,1,shopping > fashion_and_apparel_store > clothing_store > bridal_shop
+Microtel Inns & Suites,1,lodging > hotel
+Midland Tools,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Mike's Garage di Michael Rossini,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Milano Coffee Vietnam,1,food_and_drink > casual_eatery > cafe
+Milano coffee 41 Trần Đức Thảo,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Milano's Italian Restaurant,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Millards Chartered Professional Accountants,1,services_and_business > financial_service > tax_service
+"Miller Fence Company, Inc.",1,services_and_business > home_service > fence_and_gate_sales_service
+Miller Florida Real Estate,1,services_and_business > real_estate_service > real_estate_agent
+Mind Games,1,shopping > specialty_store > toys_and_games_store > toy_store
+Minerva's Baja Tackle,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Miniso,1,shopping > specialty_store > flowers_and_gifts_store
+Minit-Tune & Brake Auto Centres,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+Mint Roofing,1,services_and_business > home_service > ceiling_and_roofing_repair_and_service > roofing
+Minuteman Press,1,services_and_business > printing_service
+Misty Meadows Herbal Center,1,lodging > bed_and_breakfast
+Mitsubishi Motors,1,shopping > vehicle_dealer > auto_dealer
+Modern Aesthetics,1,lifestyle_services > wellness_service > spa > medical_spa
+Modern Nails,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Momentum Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+Monarch Pediatric Dental Centre,1,health_care > outpatient_care_facility > dental_clinic > pediatric_dentistry
+Montecristo Jewellers,1,shopping > fashion_and_apparel_store > jewelry_store
+Montessori Educare,1,education > place_of_learning > school > preschool
+Movado Company Stores,1,shopping > fashion_and_apparel_store > jewelry_store
+Mr Bro,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > korean_restaurant
+Mr Pet's,1,shopping > specialty_store > animal_and_pet_store > pet_store
+Mr. Falafel,1,food_and_drink > restaurant > middle_eastern_restaurant
+Mr. Locksmith,1,services_and_business > home_service > key_and_locksmith
+Mr. Pretzels Limeira,1,food_and_drink > casual_eatery > bakery
+Mr.Pretzels Canada,1,food_and_drink > casual_eatery > food_truck_stand
+Mui Garden Restaurant,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > malaysian_restaurant
+MuscleMD Clinic,1,
+Muse Salon,1,lifestyle_services > personal_or_beauty_service > hair_salon
+My Family  Dentist,1,health_care > outpatient_care_facility > dental_clinic
+My Thai,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+N-Hance Wood Refinishing,1,services_and_business > home_service > countertop_installation
+NODO Restaurant,1,food_and_drink > restaurant > middle_eastern_restaurant > persian_restaurant
+National Concrete Accessories,1,services_and_business > building_or_construction_service
+Nature's Farm,1,services_and_business > agricultural_service > farm
+Naturepedic,1,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+Neighbourhood Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Nelson Chiropractic,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Neptune Palace Restaurant - Surrey Central,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Nero Belgian Waffle Bar - Yaletown,1,food_and_drink > casual_eatery > dessert_shop
+Nesters Market,1,shopping > food_and_beverage_store > grocery_store
+Nettwerk Sync,1,arts_and_entertainment > performing_arts_venue > music_venue
+Neuromotion,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+New Balance Vancouver Stores,1,shopping > specialty_store > sporting_goods_store > sportswear_store
+New Hope Community Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+New Life,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+New Life Apostolic Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+New Life Christian Fellowship,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+New Town Bakery & Restaurant,1,food_and_drink > casual_eatery > bakery
+Niche Women's Tours,1,travel_and_transportation > travel_service
+Night Owl Farm,1,services_and_business > b2b_service > b2b_agriculture_service > livestock_breeder
+Notarié inc.,1,services_and_business > legal_service
+Nova Physiotherapy,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Nu,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Nuba,1,food_and_drink > restaurant > middle_eastern_restaurant > lebanese_restaurant
+Nufloors Langley,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+O'Hair salon /spa /Barbershop,1,lifestyle_services > personal_or_beauty_service > hair_salon
+OAK + FORT,1,shopping > fashion_and_apparel_store > clothing_store
+OEB Breakfast Co.,1,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+"Oak Tree Manor Weddings in Spring, Texas",1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Oasis Dental Studio,1,health_care > outpatient_care_facility > dental_clinic
+Obanhmi,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Oh Sugar,1,food_and_drink > casual_eatery > candy_store
+Olde Tyme Candy Shoppe Ltd.,1,food_and_drink > casual_eatery > candy_store
+Olive Fertility Centre,1,health_care > outpatient_care_facility > reproductive_perinatal_and_womens_care > obstetrics_and_gynecology
+On Point Wellness and Physical Therapy,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+One Stop,1,travel_and_transportation > fueling_station > gas_station
+OneZo Tapioca,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Open Connection,1,shopping > specialty_store > electronics_store > mobile_phone_store
+Open Road Driving School,1,education > place_of_learning > specialty_school > driving_school
+Open-Gate Church Okc,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Optical Center,1,shopping > fashion_and_apparel_store > eyewear_store
+Optiks International,1,shopping > fashion_and_apparel_store > eyewear_store
+Optimind Technology Solutions,1,health_care > outpatient_care_facility > behavioral_or_mental_health_clinic
+Opus Art Supplies,1,shopping > specialty_store > arts_crafts_and_hobby_store
+Ora Dental Care,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Oregano's Pizza,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Orkin Canada,1,services_and_business > home_service > pest_control_service
+Oscar Wylee Eyewear,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Ottavio,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Our Lady of Perpetual Help,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+PHO 37,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+PIZZA ZONE,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Pacific Coast Dental,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Pacific Quorum Okanagan Properties - Salmon Arm Rentals,1,services_and_business > real_estate_service > property_management
+Paint Centre,1,shopping > specialty_store > hardware_home_and_garden_store > home_improvement_store
+Palagio Immobiliare,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Pantry,1,services_and_business > event_or_party_service > caterer
+Paramount Moving,1,services_and_business > home_service > mover
+Pardon Applications of Canada,1,travel_and_transportation > travel_service > passport_and_visa_service
+Paris everyBODY,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > prosthetics
+Park Animal Hospital,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Park Pet Hospital,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Park'N Fly Canada,1,travel_and_transportation
+Parkside Academy,1,services_and_business > home_service
+Parkview Children's Centre,1,services_and_business > family_service > child_care_and_day_care > day_care_preschool
+Party City,1,shopping > specialty_store > party_supply_store
+Passport Health,1,health_care
+Patagonia,1,shopping > specialty_store > sporting_goods_store > sportswear_store
+Peace Lutheran Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Peace of Mind,1,lifestyle_services > animal_or_pet_service > pet_care_service > pet_sitting
+Peaches Cafe,1,food_and_drink > casual_eatery > diner
+Pearl Castle Cafe,1,food_and_drink > casual_eatery > cafe
+Pedersen's Event Rentals,1,shopping > specialty_store > party_supply_store
+Pediatric Dental Associates,1,health_care > outpatient_care_facility > dental_clinic > pediatric_dentistry
+Peloton,1,shopping > specialty_store > sporting_goods_store > bike_store
+Pemberton Holmes Property Management Nanaimo,1,services_and_business > real_estate_service > property_management
+Peninsula denture centre,1,health_care > outpatient_care_facility > dental_clinic
+Pentel,1,
+Pepper Lunch Singapore,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+PerceiveMD,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+Perfectly Polished,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Performance Radiator,1,shopping > specialty_store > vehicle_parts_store > auto_parts_store
+Persia Foods,1,shopping > food_and_beverage_store > grocery_store
+Persona Laser,1,lifestyle_services > personal_or_beauty_service > skin_care_and_makeup
+Pesticon Pest Control,1,services_and_business > home_service > pest_control_service
+Peterbilt Pacific,1,shopping > vehicle_dealer > truck_dealer
+Phase One Design,1,services_and_business > corporate_or_business_office
+Phatboy Fireworks,1,shopping > specialty_store > fireworks_store
+Phi Delta Theta,1,community_and_government > social_or_community_service
+Philippine Manila Times,1,travel_and_transportation > air_transport_facility_or_service > airline
+Pho Japolo,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+"Phoenix Healing Arts: Massage, Shiatsu, Cranial Sacral & Kinesiology",1,lifestyle_services > wellness_service > spa > health_spa
+Phoenix Restaurant 金鳳餐廳,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Phone Guru Computer & Cellphone Repair,1,services_and_business > technical_service > it_service_and_computer_repair
+Physica Health,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Physio HQ,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Picnic,1,food_and_drink > restaurant > european_restaurant > western_european_restaurant > french_restaurant
+Pinecrest Stables,1,sports_and_recreation > sport_or_fitness_facility > horse_riding
+Pink Rose Nails & Spa Rochdale,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Pinkberry,1,food_and_drink > casual_eatery > dessert_shop > frozen_yogurt_shop
+Pivotal Physiotherapy,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+"Pizza Factory, Inc.",1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Pizza Plus,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+PizzaForno,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+"Plato's Closet - Jacksonville, FL",1,shopping > fashion_and_apparel_store > clothing_store
+Plaza Premium First,1,
+Pokerrito,1,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Pokey Okey,1,food_and_drink > restaurant > pacific_rim_restaurant > polynesian_restaurant > hawaiian_restaurant > poke_restaurant
+Postech Screw Piles,1,services_and_business > home_service > exterior_design
+Pottery Barn,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Practicar Gestão de Negócios,1,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Prada,1,shopping > fashion_and_apparel_store > clothing_store
+PrairieCoast equipment,1,services_and_business > b2b_service > b2b_agriculture_service > b2b_farming > farm_equipment_and_supply
+Prenuvo,1,health_care > outpatient_care_facility > diagnostics_imaging_or_lab_service > doctors_office
+Presotea BC 鮮茶道,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Prestige Photography,1,services_and_business > professional_service
+"Prime Personal Training - Waco, TX",1,sports_and_recreation > sport_or_fitness_facility > gym
+Prince of Wales Theatre,1,education > place_of_learning > school > public_school
+Prince of Whales Whale Watching,1,travel_and_transportation > travel_service > tour_operator
+Princess Auto,1,shopping > specialty_store > hardware_home_and_garden_store > hardware_store
+Professionail,1,lifestyle_services > personal_or_beauty_service > skin_care_and_makeup
+Providence,1,community_and_government > civic_organization > charity_organization
+Providence Living,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Provincial Sleep Group,1,health_care > medical_service > medical_service_organization
+Puddleduck Wines,1,education > place_of_learning > school > preschool
+Pulpfiction Books,1,shopping > specialty_store > books_music_and_video_store > bookstore
+Pure Dental,1,health_care > outpatient_care_facility > dental_clinic
+Pure Hair Design,1,lifestyle_services > personal_or_beauty_service > hair_salon
+PuroClean,1,services_and_business > home_service > damage_restoration
+Pvolve Studio - Algonquin,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > pilates_studio
+PwC,1,services_and_business > professional_service > business_consulting
+Q Burger饗樂餐飲,1,food_and_drink > restaurant > meat_restaurant > burger_restaurant
+Q Living Furniture,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+QXO,1,lodging > lodge
+Quality Hotel,1,lodging > hotel
+Queen Nails & Spa,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Radio Victoria,1,services_and_business > media_service > media_news_company > broadcasting_media_production
+Rain or Shine Ice Cream,1,food_and_drink > casual_eatery > dessert_shop > ice_cream_shop
+Raku Ramen & Izakaya,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Ralph Lauren,1,shopping > fashion_and_apparel_store > clothing_store
+Ramada,1,lodging > hotel
+Ramen Arashi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Randall’s,1,shopping > specialty_store > flowers_and_gifts_store
+Rangoli,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Real Fruit Bubble Tea,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Real Property Management,1,services_and_business > real_estate_service > property_management
+Recharge Physiotherapy + Performance,1,health_care > outpatient_care_facility > physical_medicine_and_rehabilitation > physical_therapy
+Red Apple Stores,1,shopping > department_store
+"Red Apple Stores, Iroquois Falls, Ontario",1,shopping > discount_store
+Red Carpet Ready,1,lifestyle_services > wellness_service > spa > medical_spa
+Red Swan Pizza,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Red-D-Arc,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Reddhart Workwear Red Deer,1,shopping > fashion_and_apparel_store > clothing_store > uniform_store
+Regent Park Focus,1,services_and_business > real_estate_service
+Residence Inn,1,lodging > hotel
+Resound School of Music,1,education > place_of_learning > specialty_school > music_school
+Revive Massage,1,lifestyle_services > wellness_service > massage_therapy
+Ria Money Transfer,1,services_and_business > financial_service
+Rice Cake Master,1,food_and_drink > casual_eatery > bakery
+Richmond Baptist Church in Portuguese,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+River of Life Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Riverside Veterinary Hospital,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Robinson Lighting & Bath,1,shopping > specialty_store > hardware_home_and_garden_store > lighting_store
+Rocky Mountain Coffee Co.,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+Roma Pizzeria,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+Rosewood Manor House,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Royal Aroma,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Royal Nails and Spa,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Royal Pharmacy,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Royal Vancouver Yacht Club (Official),1,geographic_entities > built_feature > marina
+Rush salon,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Rustic Chix,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Ryerson,1,community_and_government > social_or_community_service
+Ryu,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+SANPOUTEI RAMEN,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+SOHO Salon,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+SSLC Language College,1,education > place_of_learning > specialty_school > language_school
+STYLE  LOUNGE,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+SUN Dentistry,1,health_care > outpatient_care_facility > dental_clinic
+SUSHI BISTRO,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+SUSHI TO GO,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sabzi Mandi Supermarket,1,shopping > food_and_beverage_store > grocery_store
+Safeguard Self Storage,1,services_and_business > storage_facility > self_storage_facility
+Saffron,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+Sailor Jack,1,shopping > second_hand_store
+Sake Sushi Grodzisk Mazowiecki,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Salon 6,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Salvatore Ferragamo,1,shopping > fashion_and_apparel_store > shoe_store
+Samurai Sam's Teriyaki Grill,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sandwich,1,shopping > fashion_and_apparel_store > clothing_store
+Savory,1,education > place_of_learning > school > elementary_school
+Sawa Restaurant & Lounge,1,food_and_drink > restaurant > north_american_restaurant > american_restaurant
+Scholars Education,1,education > educational_service > tutoring_service
+Science world,1,arts_and_entertainment > museum > science_museum
+Scuba Shack,1,sports_and_recreation > sport_or_fitness_facility > diving_center > scuba_diving_center
+Sea Harbour Seafood Restaurant,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+SeaLink Immigration,1,services_and_business > legal_service > attorney_or_law_firm > immigration_law
+"Seafarers International Union of North America, AFL-CIO",1,community_and_government > civic_organization > labor_union
+Self Storage Depot,1,services_and_business > storage_facility > self_storage_facility
+Sense,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Sentinel Storage1,1,services_and_business > storage_facility
+Seoul BBQ,1,food_and_drink > restaurant > meat_restaurant > barbecue_restaurant
+Serenity Acupuncture  Chinese Medicine,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > acupuncture
+ServiceMaster Restore,1,services_and_business > home_service > damage_restoration
+Shady Rest Hotel,1,food_and_drink > casual_eatery > gastropub
+Shannon Motors RI,1,shopping > vehicle_dealer > auto_dealer > used_auto_dealer
+Sheraton Hotels & Resorts,1,lodging > hotel
+Shine Cafe,1,food_and_drink > casual_eatery > cafe
+Shining Stars Childcare,1,services_and_business > home_service
+Shirley Community Association,1,community_and_government > social_or_community_service > community_center
+Shoe Box,1,shopping > fashion_and_apparel_store > shoe_store
+Shohei Juku Aikido Canada,1,sports_and_recreation > sport_or_recreation_club > martial_arts_club
+Showtime Event & Display,1,services_and_business > event_or_party_service
+Signature Aviation,1,travel_and_transportation > air_transport_facility_or_service > airline
+Signworks.,1,services_and_business > design_service > sign_making
+Silk and Snow,1,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+Simons,1,shopping > fashion_and_apparel_store > jewelry_store
+Simply Self Storage,1,services_and_business > storage_facility > self_storage_facility
+Sirens,1,shopping > fashion_and_apparel_store > fashion_accessories_store
+Siskin Children's Institute,1,shopping > warehouse_club_store
+Sixt,1,services_and_business > real_estate > real_estate_service > rental_service > vehicle_rental_service > car_rental_service
+Sizzling Wok,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Skinworks,1,lifestyle_services > personal_or_beauty_service > hair_removal > laser_hair_removal
+Skoah,1,lifestyle_services > personal_or_beauty_service > skin_care_and_makeup
+SkyTeam International,1,food_and_drink > alcoholic_beverage_venue > lounge > airport_lounge
+Skylar Laundromat,1,services_and_business > laundry_service > laundromat
+Skyline Marina,1,geographic_entities > built_feature > marina
+SleepMart,1,shopping > specialty_store > hardware_home_and_garden_store > mattress_store
+Small Victory Bakery,1,food_and_drink > casual_eatery > bakery
+Smart,1,shopping > vehicle_dealer > auto_dealer
+SmartCentres,1,services_and_business > real_estate_service > real_estate_agent
+Smarteyes Sverige,1,shopping > fashion_and_apparel_store > eyewear_store
+Smile Esthetics Dental Care,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+Smoke 2 Snack,1,shopping > specialty_store > smoke_and_vape_store
+Snap Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+Soccer World,1,shopping > specialty_store > sporting_goods_store
+Soft Peaks Ice Cream,1,food_and_drink > casual_eatery > dessert_shop > ice_cream_shop
+SoftMoc,1,shopping > fashion_and_apparel_store > shoe_store
+Solace Hair & Esthetics,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Solly's Bagelry,1,food_and_drink > casual_eatery > bagel_shop
+Sources Community Resource Centres,1,community_and_government > social_or_community_service
+Southern Railway of Vancouver Island Limited,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > railroad_freight
+Spa & Massage,1,lifestyle_services > wellness_service > spa
+Spa One,1,lifestyle_services > wellness_service > spa
+Spani,1,services_and_business > building_or_construction_service
+Special Occasions Party Supply,1,shopping > specialty_store > party_supply_store
+Specsavers Canada,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Spectrum,1,education > place_of_learning > school > public_school
+SpeedPro,1,services_and_business > design_service > sign_making
+Speedpro Durham,1,services_and_business > design_service > sign_making
+Speedy Auto Service,1,travel_and_transportation > vehicle_service > automotive_service
+Speedy Cash,1,services_and_business > financial_service > installment_loans
+Spencer's Grill & Bar,1,shopping > specialty_store > flowers_and_gifts_store
+Spergel,1,services_and_business > legal_service > attorney_or_law_firm > bankruptcy_law
+Spirit Spa,1,lifestyle_services > wellness_service > spa > day_spa
+Splitsville Entertainment Centres,1,sports_and_recreation > sport_or_fitness_facility > bowling_alley
+Sport Clips,1,lifestyle_services > personal_or_beauty_service > barber
+Sportsnet,1,services_and_business > media_service > media_news_company > radio_station
+Spring Dental,1,health_care > outpatient_care_facility > dental_clinic > general_dentistry
+"St Barnabas' Church, Victoria, BC",1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+St Jude's Health Care Services,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+St. Faith's - Plumstead,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+St. John the Divine Greek Orthodox Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+St. John's Anglican Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+St. Mark's Catholic Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+St. Mary Magdalene's,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > anglican_or_episcopal_place_of_worship
+St. Nicholas Ukrainian Catholic Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > roman_catholic_place_of_worship
+St. Paul's Hospital Gift Shop,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+St. Paul's United Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Standard Furniture Since 1912,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Stantec,1,services_and_business > building_or_construction_service > engineering_service
+Staples Print and Marketing,1,services_and_business > printing_service
+Star Liquor,1,shopping > food_and_beverage_store > liquor_store
+Stella Artois,1,food_and_drink > alcoholic_beverage_venue > bar > pub
+Stepping Stone School,1,education > place_of_learning > school > preschool
+Steveston Pizza Co.,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Stitches,1,shopping > fashion_and_apparel_store > clothing_store
+Stong's Market,1,shopping > food_and_beverage_store > grocery_store
+Storage Solutions,1,services_and_business > storage_facility
+Street Legal Tint & Detailing,1,travel_and_transportation > vehicle_service > automotive_service > auto_detailing
+StretchLab,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+Stuart Weitzman,1,shopping > fashion_and_apparel_store > shoe_store
+Studio 106,1,arts_and_entertainment > arts_and_crafts_space > art_gallery
+Studio A+,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Studio B Hair Salon,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Studio Boutique,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+Studio C Dance,1,sports_and_recreation > sport_or_fitness_facility > dance_studio
+SubText: A Bookstore,1,shopping > specialty_store > books_music_and_video_store > bookstore > academic_bookstore
+Subaru España,1,shopping > vehicle_dealer > auto_dealer
+Summit School,1,education > place_of_learning > specialty_school
+Sunnyside Cafe Esquimalt,1,food_and_drink > casual_eatery > cafe
+Sunshine Market,1,shopping > food_and_beverage_store > grocery_store
+Suntea 新作の茶,1,food_and_drink > non_alcoholic_beverage_venue > bubble_tea_shop
+Super Save Supermarket,1,community_and_government > public_utility > garbage_collection_service
+SuperTech Diesel Repair,1,travel_and_transportation > vehicle_service > automotive_service > truck_repair
+Supplement World Edmonton - New Castle,1,shopping > food_and_beverage_store > vitamin_and_supplement_store
+SureStay Hotels,1,lodging > hotel
+Sushi California,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi Hiro,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi King,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi Lovers,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi Maki,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Sushi YA,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+SushiVan,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Swatch,1,shopping > fashion_and_apparel_store > jewelry_store > watch_store
+Sweeney Todd's Salon,1,lifestyle_services > personal_or_beauty_service > barber
+Sweet Salvage on 7th Ave,1,shopping > second_hand_store
+Swiss Chalet,1,food_and_drink > restaurant > comfort_food_restaurant
+T-Bone Construction,1,services_and_business > building_or_construction_service
+TAG Heuer,1,shopping > fashion_and_apparel_store > jewelry_store > watch_store
+TAKE 5,1,services_and_business > media_service > media_news_company > publisher
+TALBOTS,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+TJ's The Kiddies Store Ltd.,1,shopping > specialty_store > toys_and_games_store > toy_store
+TLD,1,services_and_business > technical_service > it_service_and_computer_repair
+TULIP SPA,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+TUMI,1,shopping > specialty_store > outlet_store
+Taco Bell,1,food_and_drink > restaurant > latin_american_restaurant > taco_restaurant
+Taco Time,1,food_and_drink > casual_eatery > fast_food_restaurant
+Taiga Building Products,1,shopping > warehouse_club_store
+Tantra Fitness,1,sports_and_recreation > sport_or_fitness_facility
+Taters,1,food_and_drink > restaurant > meat_restaurant > chicken_restaurant
+Tauber Music,1,education > place_of_learning > specialty_school > music_school
+Taylor & Blair,1,services_and_business > legal_service > attorney_or_law_firm
+Taylor & Colt,1,lifestyle_services > personal_or_beauty_service > barber
+Tea Desire,1,food_and_drink > non_alcoholic_beverage_venue > tea_room
+Ted Baker,1,shopping > fashion_and_apparel_store > clothing_store
+Temple Sholom Cincinnati,1,cultural_and_historic > place_of_worship > jewish_place_of_worship
+Tenth Presbyterian Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Tesla Supercharger,1,community_and_government
+Tetra Tech,1,services_and_business > building_or_construction_service > engineering_service
+Thai Away Home Restaurants,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Thai Basil,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Thai Lemongrass,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+Thaï Express UK,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > thai_restaurant
+The Art of Living,1,lifestyle_services > wellness_service > meditation_center
+The Barber Shop,1,lifestyle_services > personal_or_beauty_service > barber
+The Bargain Shop,1,shopping
+The Beehive Salon,1,lifestyle_services > personal_or_beauty_service > hair_salon
+The Bridal Bar,1,services_and_business > event_or_party_service > wedding_planning
+The Bridal Boutique,1,shopping > fashion_and_apparel_store > clothing_store > bridal_shop
+The Captain's Boil,1,food_and_drink > restaurant > seafood_restaurant
+The Church of God in Stoke-on-Trent,1,cultural_and_historic > religious_organization
+The Curious Cat,1,shopping > specialty_store > flowers_and_gifts_store > gift_shop
+The Curry Culture,1,food_and_drink > restaurant > asian_restaurant > south_asian_restaurant > indian_restaurant
+The Dolar Shop USA,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+The Donut Shop,1,food_and_drink > casual_eatery > dessert_shop > donut_shop
+The Driftwood,1,lodging > hotel
+The Farmer's Daughter Country Store,1,food_and_drink > alcoholic_beverage_venue > bar > wine_bar
+The Floor Store,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+The Galley,1,food_and_drink > restaurant
+"The Healing Nest-Washington Township, Mi",1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+The Human Bean,1,food_and_drink > non_alcoholic_beverage_venue > coffee_shop
+The Latest Scoop,1,shopping > fashion_and_apparel_store > fashion_boutique
+The Local,1,food_and_drink > casual_eatery > cafe
+The Maple Residences,1,cultural_and_historic > historic_site
+The Motion Lab,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > naturopathic_medicine
+The Nest Yoga,1,sports_and_recreation > sport_or_fitness_facility > fitness_studio > yoga_studio
+The North Face,1,shopping > specialty_store > sporting_goods_store > outdoor_store
+The Old Firehouse Wine Bar,1,food_and_drink > alcoholic_beverage_venue > bar > cocktail_bar
+The Old Spaghetti Factory,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant
+The Oracle at Sechelt,1,shopping > specialty_store > flowers_and_gifts_store
+The Oxford - Senior Care,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+The Pantry Restaurants,1,food_and_drink > restaurant
+The Pharmacy - Kitsilano,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+The Pointe on Badger's Island,1,food_and_drink > restaurant
+The Reading Foundation,1,education
+"The Soup Kitchen, Stafford",1,community_and_government > social_or_community_service
+The Source Bulk Foods,1,shopping > food_and_beverage_store > grocery_store > organic_grocery_store
+The Station,1,food_and_drink > casual_eatery > gastropub
+The Store,1,shopping > specialty_store > hardware_home_and_garden_store > home_improvement_store
+The Village Clinic,1,health_care > specialized_medical_facility > abuse_and_addiction_treatment_center
+The Village Restaurant Wine Bar,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > greek_restaurant
+The Vitamin Shoppe,1,shopping > food_and_beverage_store > vitamin_and_supplement_store
+The Yellow Deli,1,food_and_drink > casual_eatery > delicatessen
+TheKey,1,health_care > medical_service > home_health_care
+Theatre Dance Academy,1,sports_and_recreation > sport_or_fitness_facility > dance_studio
+Theo's Restaurant,1,food_and_drink > restaurant
+Thomas Sabo,1,shopping
+Thrive Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Thrive Wellness,1,health_care > outpatient_care_facility > complementary_and_alternative_medicine > chiropractic
+Thrive and Shine,1,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+Time To Unwind Wax ‘N Beauty Parlour,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Tino's Pizza Café 堤諾義大利比薩 三峽北大門市,1,food_and_drink > restaurant > european_restaurant > mediterranean_restaurant > italian_restaurant > pizza_restaurant
+Tiny Hoppers Head Office,1,services_and_business > family_service > child_care_and_day_care > day_care_preschool
+Tiny Tattoo Barcelona,1,lifestyle_services > personal_or_beauty_service > body_modification > tattoo_and_piercing
+Tire Exchange,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair > tire_dealer_and_repair
+Tisol Pet Nutrition & Supply Stores,1,shopping > specialty_store > animal_and_pet_store > pet_store
+Titan Machinery România,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Tom James Company,1,shopping > fashion_and_apparel_store > clothing_store > formal_wear_store
+Tom Lee Music Canada,1,shopping > specialty_store > musical_instrument_and_pro_audio_store > musical_instrument_store
+Tomo,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+Topman,1,shopping > fashion_and_apparel_store > clothing_store > mens_clothing_store
+Tory Burch,1,shopping > fashion_and_apparel_store > fashion_boutique
+Total Fitness,1,sports_and_recreation > sport_or_fitness_facility > gym
+Tout de Sweet,1,food_and_drink > casual_eatery > candy_store
+Town Shoes,1,shopping > fashion_and_apparel_store > shoe_store
+TownePlace Suites,1,lodging > hotel
+Trafalgar,1,education > place_of_learning > school > elementary_school
+TranceVape PG,1,shopping > specialty_store > smoke_and_vape_store
+Transat Travel,1,travel_and_transportation > travel_service
+Transcendental Meditation,1,lifestyle_services > wellness_service > meditation_center
+Traveland RV Edmonton,1,shopping > vehicle_dealer > recreational_vehicle_dealer
+Trek Bicycle Store,1,shopping > specialty_store > sporting_goods_store > bike_store
+Trilliant,1,services_and_business > financial_service
+Trimac,1,travel_and_transportation > travel_service
+Trinity Baptist Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+"Trinity Episcopal Church and School, Victoria",1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Trinity United,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Troy Wotherspoon Insurance Services Ltd,1,services_and_business > financial_service > insurance_agency
+Tru Value Food,1,shopping > food_and_beverage_store > grocery_store
+True Confections,1,food_and_drink > casual_eatery > dessert_shop
+True World Foods,1,shopping > food_and_beverage_store
+Tsujiri,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+TutorBright,1,education > educational_service > tutoring_service
+Tutoring Club,1,education > educational_service > tutoring_service
+Tutti Frutti,1,food_and_drink > casual_eatery > dessert_shop > frozen_yogurt_shop
+Twin Oaks Farm,1,sports_and_recreation > sport_or_fitness_facility > horse_riding
+Tyler Construction,1,services_and_business > home_service > electrician
+UC Auto,1,shopping > vehicle_dealer > auto_dealer
+UGG,1,shopping > fashion_and_apparel_store > clothing_store
+Ultimate Coders,1,education > place_of_learning > specialty_school > computer_coaching
+Umi Sushi,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant > sushi_restaurant
+UniFor,1,community_and_government > civic_organization > labor_union
+Uniglobe,1,travel_and_transportation > travel_service > travel_agent
+Uniglobe Carefree Travel,1,travel_and_transportation > travel_service
+Union Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Uno Gelato,1,food_and_drink > casual_eatery > dessert_shop > gelato_shop
+Urban Edge Hair,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Urban Outfitters,1,shopping > fashion_and_apparel_store > clothing_store
+U•STORE•IT,1,services_and_business > storage_facility
+Valentino,1,shopping > fashion_and_apparel_store > clothing_store
+Valley Veterinary Clinic,1,lifestyle_services > animal_or_pet_service > veterinary_care > veterinarian
+Van Limos - Limousine Services Surrey,1,travel_and_transportation > ground_transport_facility_or_service > taxi_or_ride_share_service > limo_service
+Van-Kam Freightways Ltd.,1,services_and_business > b2b_service > b2b_transportation_and_storage_service > freight_and_cargo_service
+Vancouver Aquarium,1,shopping > specialty_store > flowers_and_gifts_store
+Vans,1,shopping > specialty_store > outlet_store
+Vape Shack,1,shopping > specialty_store > smoke_and_vape_store
+Vaultra Storage,1,services_and_business > storage_facility
+Venvi,1,services_and_business > housing_or_property_service > senior_living_facility > retirement_home
+Vessi,1,shopping > fashion_and_apparel_store > shoe_store
+Vibe Family Salon & Bridal Makeover Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+Victoria's Secret,1,shopping > fashion_and_apparel_store > clothing_store > lingerie_store
+Victoria's Secret Puerto Rico,1,services_and_business > professional_service
+Victoria’s Nails and spa,1,lifestyle_services > personal_or_beauty_service > nail_salon
+Victory Hill Church,1,services_and_business > family_service > child_care_and_day_care > day_care_preschool
+Village Bikes,1,shopping > specialty_store > sporting_goods_store > bike_store
+Vintage Woodworks,1,services_and_business > home_service > carpenter
+Virgin Radio Italy,1,services_and_business > media_service > media_news_company > radio_station
+Visionworks,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Vital Health Pharmacy,1,shopping > specialty_store > pharmacy_and_drug_store > pharmacy
+Viva beauty bar,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+Vogue Optical,1,health_care > outpatient_care_facility > vision_or_eye_care_clinic > optometry
+Volvo Cars,1,shopping > vehicle_dealer > auto_dealer
+W&B Automotive,1,travel_and_transportation > vehicle_service > automotive_service > automotive_repair
+"Waffle Magic, 427-b Fitzwilliam St. Nanaimo, Bc",1,food_and_drink > restaurant > breakfast_and_brunch_restaurant
+Warhammer,1,shopping > specialty_store > arts_crafts_and_hobby_store > hobby_shop
+Watch Station,1,shopping > fashion_and_apparel_store > jewelry_store
+Waves Car Wash,1,travel_and_transportation > vehicle_service > automotive_service > car_wash
+Waves Hair Studio,1,lifestyle_services > personal_or_beauty_service > hair_salon
+WeWork,1,services_and_business > event_or_party_service
+Wedler Engineering LLP,1,services_and_business > building_or_construction_service > civil_engineer
+Weed Man Fresno,1,services_and_business > home_service > landscaping > gardener
+Weekend Max Mara,1,shopping > fashion_and_apparel_store > clothing_store
+West Coast Helicopters,1,travel_and_transportation > vehicle_service > aircraft_service
+West Coast Liquor Company,1,shopping > food_and_beverage_store > liquor_store
+West Elm,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Westcoast Wills & Estates,1,services_and_business > legal_service > attorney_or_law_firm > wills_trusts_and_probate
+Western Appliances,1,shopping > specialty_store > hardware_home_and_garden_store > appliance_store
+Western Equipment & Supply Inc,1,services_and_business > b2b_service > manufacturer > machinery_and_tool_manufacturer > industrial_equipment_manufacturer
+Western University,1,education > place_of_learning > college_university
+Westside Baptist Church,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship > protestant_place_of_worship > baptist_place_of_worship
+Westside Family Worship Center - WFWC,1,cultural_and_historic > religious_organization > place_of_worship > christian_place_of_worship
+Westview BC,1,services_and_business > real_estate_service > builder > home_developer
+Williams Sonoma,1,shopping > specialty_store > hardware_home_and_garden_store
+Wilson Pro Painting,1,services_and_business > home_service > painting
+Windsor Fashions,1,shopping > specialty_store > hardware_home_and_garden_store > furniture_store
+Windsor Plywood Dawson Creek,1,shopping > specialty_store > hardware_home_and_garden_store > building_supply_store
+Windsor Stables,1,lifestyle_services > animal_or_pet_service > equine_service > horse_boarding
+Wine Works,1,food_and_drink > alcoholic_beverage_venue > winery
+Wolf Willow Collective,1,lifestyle_services > wellness_service > spa > medical_spa
+Wolseley Showrooms,1,shopping > specialty_store > hardware_home_and_garden_store > home_goods_store
+Woodfellow Flooring,1,shopping > specialty_store > hardware_home_and_garden_store > carpet_store
+Woodside Energy,1,services_and_business > agricultural_service > farm
+Woodsmere Holdings Corp.,1,services_and_business > real_estate_service
+WorldMark by Wyndham,1,lodging > resort
+Wyndham,1,lodging > hotel
+Xin Chao Vietnamese Cuisine,1,food_and_drink > restaurant > asian_restaurant > southeast_asian_restaurant > vietnamese_restaurant
+Yalla Mediterranean,1,food_and_drink > restaurant > middle_eastern_restaurant
+Yan's Garden 潮樓,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Yin Ji Chang Fen,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > chinese_restaurant
+Yunshang Rice Noodle 云尚米线,1,food_and_drink > restaurant > asian_restaurant > ramen_restaurant
+ZUBU,1,food_and_drink > restaurant > asian_restaurant > east_asian_restaurant > japanese_restaurant
+Zara,1,shopping > fashion_and_apparel_store > clothing_store
+Zebra Robotics,1,education > place_of_learning > specialty_school > computer_coaching
+adidas,1,shopping > fashion_and_apparel_store > shoe_store
+anthropologie,1,shopping > fashion_and_apparel_store > clothing_store > womens_clothing_store
+blush beauty bar,1,lifestyle_services > personal_or_beauty_service > beauty_salon
+cintas,1,services_and_business > professional_service > employment_agency
+colliers,1,services_and_business > real_estate_service > commercial_real_estate
+honey,1,shopping > fashion_and_apparel_store > clothing_store > lingerie_store
+iDental,1,health_care > outpatient_care_facility > dental_clinic
+kate spade new york,1,shopping > specialty_store > outlet_store
+olympic Fitness Adendorf,1,sports_and_recreation > sport_or_fitness_facility > gym
+イズミヤ Izumiya,1,shopping > food_and_beverage_store > grocery_store
+华泰 Foody World,1,shopping > food_and_beverage_store > grocery_store

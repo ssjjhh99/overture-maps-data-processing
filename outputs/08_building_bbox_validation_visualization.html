@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_bbac6ae4a2279a67c1a09eb81cf952de {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="
+    position: fixed;
+    top: 10px;
+    left: 50px;
+    z-index: 9999;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 14px;
+    max-width: 430px;
+">
+<b>Building bbox validation: Billings Spit Beach House</b><br><br>
+<span style="color:#0066ff;">●</span> Blue point = Overture Place coordinate<br>
+<span style="color:red;">■</span> Red = original Places bbox<br>
+<span style="color:blue;">■</span> Blue outline = Overture Building polygon<br>
+<span style="color:green;">■</span> Green = final Building-derived bbox<br><br>
+Building area: nan m²
+</div>
+    
+            <div class="folium-map" id="map_bbac6ae4a2279a67c1a09eb81cf952de" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_bbac6ae4a2279a67c1a09eb81cf952de = L.map(
+                "map_bbac6ae4a2279a67c1a09eb81cf952de",
+                {
+                    center: [48.382955, -123.689945],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 20,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+
+            
+
+        
+    
+            var tile_layer_c4ffc28ca7bfd61f98b245020d090aa4 = L.tileLayer(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                {
+  "minZoom": 0,
+  "maxZoom": 23,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "Esri World Imagery",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c4ffc28ca7bfd61f98b245020d090aa4.addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+        
+    
+            var rectangle_de0af8cc424b1df1c8303a61c64905f4 = L.rectangle(
+                [[48.38295364379883, -123.68995666503906], [48.38296127319336, -123.68994140625]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+        
+    
+        var popup_3138f871e57b5ba10bf389400421af89 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7e76e092102a6cc58532b82e32dfed29 = $(`<div id="html_7e76e092102a6cc58532b82e32dfed29" style="width: 100.0%; height: 100.0%;"><b>Original Places bbox</b><br>[-123.68995666503906, 48.38295364379883, -123.68994140625, 48.38296127319336]</div>`)[0];
+                popup_3138f871e57b5ba10bf389400421af89.setContent(html_7e76e092102a6cc58532b82e32dfed29);
+            
+        
+
+        rectangle_de0af8cc424b1df1c8303a61c64905f4.bindPopup(popup_3138f871e57b5ba10bf389400421af89)
+        ;
+
+        
+    
+    
+            rectangle_de0af8cc424b1df1c8303a61c64905f4.bindTooltip(
+                `<div>
+                     Original Overture Places bbox
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+        function geo_json_d204c355500a43ffffee18ccbb7e2eed_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "blue", "fill": true, "fillOpacity": 0.12, "weight": 4};
+            }
+        }
+
+        function geo_json_d204c355500a43ffffee18ccbb7e2eed_onEachFeature(feature, layer) {
+
+            layer.on({
+            });
+        };
+        var geo_json_d204c355500a43ffffee18ccbb7e2eed = L.geoJson(null, {
+                onEachFeature: geo_json_d204c355500a43ffffee18ccbb7e2eed_onEachFeature,
+            
+                style: geo_json_d204c355500a43ffffee18ccbb7e2eed_styler,
+            ...{
+}
+        });
+
+        function geo_json_d204c355500a43ffffee18ccbb7e2eed_add (data) {
+            geo_json_d204c355500a43ffffee18ccbb7e2eed
+                .addData(data);
+        }
+            geo_json_d204c355500a43ffffee18ccbb7e2eed_add({"features": [{"geometry": {"coordinates": [[[-123.6899502, 48.3829417], [-123.6899002, 48.383042], [-123.690078, 48.3830811], [-123.690128, 48.3829807], [-123.6899502, 48.3829417]]], "type": "Polygon"}, "id": "0", "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_d204c355500a43ffffee18ccbb7e2eed.bindTooltip(
+                `<div>
+                     Overture Building footprint
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            geo_json_d204c355500a43ffffee18ccbb7e2eed.addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+        
+    
+            var rectangle_583192ca746fd6f5558ac30b63645653 = L.rectangle(
+                [[48.3829345703125, -123.69013977050781], [48.383087158203125, -123.68988800048828]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+        
+    
+        var popup_1969e159be4ae0b1679a77bbf9fd47ee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9833560551899917128e539f7dc391d6 = $(`<div id="html_9833560551899917128e539f7dc391d6" style="width: 100.0%; height: 100.0%;"><b>Building-derived bbox</b><br>[-123.69013977050781, 48.3829345703125, -123.68988800048828, 48.383087158203125]<br>Building area: nan m²</div>`)[0];
+                popup_1969e159be4ae0b1679a77bbf9fd47ee.setContent(html_9833560551899917128e539f7dc391d6);
+            
+        
+
+        rectangle_583192ca746fd6f5558ac30b63645653.bindPopup(popup_1969e159be4ae0b1679a77bbf9fd47ee)
+        ;
+
+        
+    
+    
+            rectangle_583192ca746fd6f5558ac30b63645653.bindTooltip(
+                `<div>
+                     Final Building-derived bbox
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9ee1e120ed742bf8888470f77a87519d = L.circleMarker(
+                [48.382955, -123.689945],
+                {"bubblingMouseEvents": true, "color": "white", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#0066ff", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 2}
+            ).addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+        
+    
+        var popup_393df538198178f45cbae07d5010e623 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a77cf2cc2aabd8e0897c91f9d0a91801 = $(`<div id="html_a77cf2cc2aabd8e0897c91f9d0a91801" style="width: 100.0%; height: 100.0%;"><b>Billings Spit Beach House</b><br>Latitude: 48.382955<br>Longitude: -123.689945<br>bbox method: building</div>`)[0];
+                popup_393df538198178f45cbae07d5010e623.setContent(html_a77cf2cc2aabd8e0897c91f9d0a91801);
+            
+        
+
+        circle_marker_9ee1e120ed742bf8888470f77a87519d.bindPopup(popup_393df538198178f45cbae07d5010e623)
+        ;
+
+        
+    
+    
+            circle_marker_9ee1e120ed742bf8888470f77a87519d.bindTooltip(
+                `<div>
+                     Overture Place: Billings Spit Beach House
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var layer_control_21bac2a1f2127288d52662bc0b2405b8_layers = {
+                base_layers : {
+                    "Satellite imagery" : tile_layer_c4ffc28ca7bfd61f98b245020d090aa4,
+                },
+                overlays :  {
+                    "Overture Building Polygon" : geo_json_d204c355500a43ffffee18ccbb7e2eed,
+                },
+            };
+            let layer_control_21bac2a1f2127288d52662bc0b2405b8 = L.control.layers(
+                layer_control_21bac2a1f2127288d52662bc0b2405b8_layers.base_layers,
+                layer_control_21bac2a1f2127288d52662bc0b2405b8_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_bbac6ae4a2279a67c1a09eb81cf952de);
+
+        
+    
+            map_bbac6ae4a2279a67c1a09eb81cf952de.fitBounds(
+                [[48.3829345703125, -123.69013977050781], [48.383087158203125, -123.68988800048828]],
+                {"padding": [60, 60]}
+            );
+        
+</script>
+</html>
